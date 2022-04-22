@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.exe
+C:\Users\91984\source\repos\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.deps.json
+C:\Users\91984\source\repos\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.runtimeconfig.json
+C:\Users\91984\source\repos\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.runtimeconfig.dev.json
+C:\Users\91984\source\repos\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.dll
+C:\Users\91984\source\repos\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.pdb
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.AssemblyInfo.cs
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.dll
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.pdb
+C:\Users\91984\source\repos\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.genruntimeconfig.cache

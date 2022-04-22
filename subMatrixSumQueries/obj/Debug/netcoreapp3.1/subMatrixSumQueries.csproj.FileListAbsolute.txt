@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\subMatrixSumQueries\bin\Debug\netcoreapp3.1\subMatrixSumQueries.exe
+C:\Users\91984\source\repos\subMatrixSumQueries\bin\Debug\netcoreapp3.1\subMatrixSumQueries.deps.json
+C:\Users\91984\source\repos\subMatrixSumQueries\bin\Debug\netcoreapp3.1\subMatrixSumQueries.runtimeconfig.json
+C:\Users\91984\source\repos\subMatrixSumQueries\bin\Debug\netcoreapp3.1\subMatrixSumQueries.runtimeconfig.dev.json
+C:\Users\91984\source\repos\subMatrixSumQueries\bin\Debug\netcoreapp3.1\subMatrixSumQueries.dll
+C:\Users\91984\source\repos\subMatrixSumQueries\bin\Debug\netcoreapp3.1\subMatrixSumQueries.pdb
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.AssemblyInfo.cs
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.dll
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.pdb
+C:\Users\91984\source\repos\subMatrixSumQueries\obj\Debug\netcoreapp3.1\subMatrixSumQueries.genruntimeconfig.cache

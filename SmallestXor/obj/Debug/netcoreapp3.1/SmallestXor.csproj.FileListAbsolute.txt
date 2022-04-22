@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SmallestXor\bin\Debug\netcoreapp3.1\SmallestXor.exe
+C:\Users\91984\source\repos\SmallestXor\bin\Debug\netcoreapp3.1\SmallestXor.deps.json
+C:\Users\91984\source\repos\SmallestXor\bin\Debug\netcoreapp3.1\SmallestXor.runtimeconfig.json
+C:\Users\91984\source\repos\SmallestXor\bin\Debug\netcoreapp3.1\SmallestXor.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SmallestXor\bin\Debug\netcoreapp3.1\SmallestXor.dll
+C:\Users\91984\source\repos\SmallestXor\bin\Debug\netcoreapp3.1\SmallestXor.pdb
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.AssemblyInfo.cs
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.dll
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.pdb
+C:\Users\91984\source\repos\SmallestXor\obj\Debug\netcoreapp3.1\SmallestXor.genruntimeconfig.cache

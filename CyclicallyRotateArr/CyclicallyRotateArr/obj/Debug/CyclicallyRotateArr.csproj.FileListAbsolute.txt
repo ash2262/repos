@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\bin\Debug\CyclicallyRotateArr.exe.config
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\bin\Debug\CyclicallyRotateArr.exe
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\bin\Debug\CyclicallyRotateArr.pdb
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\obj\Debug\CyclicallyRotateArr.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\obj\Debug\CyclicallyRotateArr.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\obj\Debug\CyclicallyRotateArr.exe
+C:\Users\91984\source\repos\CyclicallyRotateArr\CyclicallyRotateArr\obj\Debug\CyclicallyRotateArr.pdb

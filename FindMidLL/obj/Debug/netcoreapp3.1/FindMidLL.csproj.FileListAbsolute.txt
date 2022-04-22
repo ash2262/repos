@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\FindMidLL\bin\Debug\netcoreapp3.1\FindMidLL.exe
+C:\Users\91984\source\repos\FindMidLL\bin\Debug\netcoreapp3.1\FindMidLL.deps.json
+C:\Users\91984\source\repos\FindMidLL\bin\Debug\netcoreapp3.1\FindMidLL.runtimeconfig.json
+C:\Users\91984\source\repos\FindMidLL\bin\Debug\netcoreapp3.1\FindMidLL.runtimeconfig.dev.json
+C:\Users\91984\source\repos\FindMidLL\bin\Debug\netcoreapp3.1\FindMidLL.dll
+C:\Users\91984\source\repos\FindMidLL\bin\Debug\netcoreapp3.1\FindMidLL.pdb
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.AssemblyInfo.cs
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.dll
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.pdb
+C:\Users\91984\source\repos\FindMidLL\obj\Debug\netcoreapp3.1\FindMidLL.genruntimeconfig.cache

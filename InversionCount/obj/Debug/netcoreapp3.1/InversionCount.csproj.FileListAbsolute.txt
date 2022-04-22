@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.AssemblyInfo.cs
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.exe
+C:\Users\91984\source\repos\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.deps.json
+C:\Users\91984\source\repos\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.runtimeconfig.json
+C:\Users\91984\source\repos\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.runtimeconfig.dev.json
+C:\Users\91984\source\repos\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.dll
+C:\Users\91984\source\repos\InversionCount\bin\Debug\netcoreapp3.1\InversionCount.pdb
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.dll
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.pdb
+C:\Users\91984\source\repos\InversionCount\obj\Debug\netcoreapp3.1\InversionCount.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MinStack\bin\Debug\netcoreapp3.1\MinStack.exe
+C:\Users\91984\source\repos\MinStack\bin\Debug\netcoreapp3.1\MinStack.deps.json
+C:\Users\91984\source\repos\MinStack\bin\Debug\netcoreapp3.1\MinStack.runtimeconfig.json
+C:\Users\91984\source\repos\MinStack\bin\Debug\netcoreapp3.1\MinStack.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MinStack\bin\Debug\netcoreapp3.1\MinStack.dll
+C:\Users\91984\source\repos\MinStack\bin\Debug\netcoreapp3.1\MinStack.pdb
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.AssemblyInfo.cs
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.dll
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.pdb
+C:\Users\91984\source\repos\MinStack\obj\Debug\netcoreapp3.1\MinStack.genruntimeconfig.cache

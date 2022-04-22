@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\InterviewQue\bin\Debug\netcoreapp3.1\InterviewQue.exe
+C:\Users\91984\source\repos\InterviewQue\bin\Debug\netcoreapp3.1\InterviewQue.deps.json
+C:\Users\91984\source\repos\InterviewQue\bin\Debug\netcoreapp3.1\InterviewQue.runtimeconfig.json
+C:\Users\91984\source\repos\InterviewQue\bin\Debug\netcoreapp3.1\InterviewQue.runtimeconfig.dev.json
+C:\Users\91984\source\repos\InterviewQue\bin\Debug\netcoreapp3.1\InterviewQue.dll
+C:\Users\91984\source\repos\InterviewQue\bin\Debug\netcoreapp3.1\InterviewQue.pdb
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.AssemblyInfo.cs
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.dll
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.pdb
+C:\Users\91984\source\repos\InterviewQue\obj\Debug\netcoreapp3.1\InterviewQue.genruntimeconfig.cache

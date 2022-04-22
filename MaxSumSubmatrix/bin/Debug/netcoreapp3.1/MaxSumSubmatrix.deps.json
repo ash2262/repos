@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaxSumSubmatrix/1.0.0": {
+        "runtime": {
+          "MaxSumSubmatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxSumSubmatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

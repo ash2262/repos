@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArrPickBothSides\bin\Debug\netcoreapp3.1\ArrPickBothSides.exe
+C:\Users\91984\source\repos\ArrPickBothSides\bin\Debug\netcoreapp3.1\ArrPickBothSides.deps.json
+C:\Users\91984\source\repos\ArrPickBothSides\bin\Debug\netcoreapp3.1\ArrPickBothSides.runtimeconfig.json
+C:\Users\91984\source\repos\ArrPickBothSides\bin\Debug\netcoreapp3.1\ArrPickBothSides.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArrPickBothSides\bin\Debug\netcoreapp3.1\ArrPickBothSides.dll
+C:\Users\91984\source\repos\ArrPickBothSides\bin\Debug\netcoreapp3.1\ArrPickBothSides.pdb
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.dll
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.pdb
+C:\Users\91984\source\repos\ArrPickBothSides\obj\Debug\netcoreapp3.1\ArrPickBothSides.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\0SumSubarray\bin\Debug\netcoreapp3.1\0SumSubarray.exe
+C:\Users\91984\source\repos\0SumSubarray\bin\Debug\netcoreapp3.1\0SumSubarray.deps.json
+C:\Users\91984\source\repos\0SumSubarray\bin\Debug\netcoreapp3.1\0SumSubarray.runtimeconfig.json
+C:\Users\91984\source\repos\0SumSubarray\bin\Debug\netcoreapp3.1\0SumSubarray.runtimeconfig.dev.json
+C:\Users\91984\source\repos\0SumSubarray\bin\Debug\netcoreapp3.1\0SumSubarray.dll
+C:\Users\91984\source\repos\0SumSubarray\bin\Debug\netcoreapp3.1\0SumSubarray.pdb
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.AssemblyInfo.cs
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.dll
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.pdb
+C:\Users\91984\source\repos\0SumSubarray\obj\Debug\netcoreapp3.1\0SumSubarray.genruntimeconfig.cache

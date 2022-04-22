@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\bin\Debug\MergeIntervals.exe.config
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\bin\Debug\MergeIntervals.exe
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\bin\Debug\MergeIntervals.pdb
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.exe
+C:\Users\91984\source\repos\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.pdb

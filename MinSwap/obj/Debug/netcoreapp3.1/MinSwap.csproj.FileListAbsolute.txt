@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.AssemblyInfo.cs
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MinSwap\bin\Debug\netcoreapp3.1\MinSwap.exe
+C:\Users\91984\source\repos\MinSwap\bin\Debug\netcoreapp3.1\MinSwap.deps.json
+C:\Users\91984\source\repos\MinSwap\bin\Debug\netcoreapp3.1\MinSwap.runtimeconfig.json
+C:\Users\91984\source\repos\MinSwap\bin\Debug\netcoreapp3.1\MinSwap.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MinSwap\bin\Debug\netcoreapp3.1\MinSwap.dll
+C:\Users\91984\source\repos\MinSwap\bin\Debug\netcoreapp3.1\MinSwap.pdb
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.dll
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.pdb
+C:\Users\91984\source\repos\MinSwap\obj\Debug\netcoreapp3.1\MinSwap.genruntimeconfig.cache

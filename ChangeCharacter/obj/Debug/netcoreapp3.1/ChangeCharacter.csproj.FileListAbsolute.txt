@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.AssemblyInfo.cs
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ChangeCharacter\bin\Debug\netcoreapp3.1\ChangeCharacter.exe
+C:\Users\91984\source\repos\ChangeCharacter\bin\Debug\netcoreapp3.1\ChangeCharacter.deps.json
+C:\Users\91984\source\repos\ChangeCharacter\bin\Debug\netcoreapp3.1\ChangeCharacter.runtimeconfig.json
+C:\Users\91984\source\repos\ChangeCharacter\bin\Debug\netcoreapp3.1\ChangeCharacter.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ChangeCharacter\bin\Debug\netcoreapp3.1\ChangeCharacter.dll
+C:\Users\91984\source\repos\ChangeCharacter\bin\Debug\netcoreapp3.1\ChangeCharacter.pdb
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.dll
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.pdb
+C:\Users\91984\source\repos\ChangeCharacter\obj\Debug\netcoreapp3.1\ChangeCharacter.genruntimeconfig.cache

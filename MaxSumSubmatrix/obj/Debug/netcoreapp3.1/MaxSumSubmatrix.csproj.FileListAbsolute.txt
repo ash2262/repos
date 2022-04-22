@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaxSumSubmatrix\bin\Debug\netcoreapp3.1\MaxSumSubmatrix.exe
+C:\Users\91984\source\repos\MaxSumSubmatrix\bin\Debug\netcoreapp3.1\MaxSumSubmatrix.deps.json
+C:\Users\91984\source\repos\MaxSumSubmatrix\bin\Debug\netcoreapp3.1\MaxSumSubmatrix.runtimeconfig.json
+C:\Users\91984\source\repos\MaxSumSubmatrix\bin\Debug\netcoreapp3.1\MaxSumSubmatrix.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxSumSubmatrix\bin\Debug\netcoreapp3.1\MaxSumSubmatrix.dll
+C:\Users\91984\source\repos\MaxSumSubmatrix\bin\Debug\netcoreapp3.1\MaxSumSubmatrix.pdb
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.dll
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.pdb
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.genruntimeconfig.cache
+C:\Users\91984\source\repos\MaxSumSubmatrix\obj\Debug\netcoreapp3.1\MaxSumSubmatrix.csproj.AssemblyReference.cache

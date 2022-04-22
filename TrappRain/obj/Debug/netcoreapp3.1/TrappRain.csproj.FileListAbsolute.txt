@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\TrappRain\bin\Debug\netcoreapp3.1\TrappRain.exe
+C:\Users\91984\source\repos\TrappRain\bin\Debug\netcoreapp3.1\TrappRain.deps.json
+C:\Users\91984\source\repos\TrappRain\bin\Debug\netcoreapp3.1\TrappRain.runtimeconfig.json
+C:\Users\91984\source\repos\TrappRain\bin\Debug\netcoreapp3.1\TrappRain.runtimeconfig.dev.json
+C:\Users\91984\source\repos\TrappRain\bin\Debug\netcoreapp3.1\TrappRain.dll
+C:\Users\91984\source\repos\TrappRain\bin\Debug\netcoreapp3.1\TrappRain.pdb
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.AssemblyInfo.cs
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.dll
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.pdb
+C:\Users\91984\source\repos\TrappRain\obj\Debug\netcoreapp3.1\TrappRain.genruntimeconfig.cache

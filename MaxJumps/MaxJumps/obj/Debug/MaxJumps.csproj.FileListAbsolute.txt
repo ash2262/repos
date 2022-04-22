@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\bin\Debug\MaxJumps.exe.config
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\bin\Debug\MaxJumps.exe
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\bin\Debug\MaxJumps.pdb
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\obj\Debug\MaxJumps.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\obj\Debug\MaxJumps.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\obj\Debug\MaxJumps.exe
+C:\Users\91984\source\repos\MaxJumps\MaxJumps\obj\Debug\MaxJumps.pdb

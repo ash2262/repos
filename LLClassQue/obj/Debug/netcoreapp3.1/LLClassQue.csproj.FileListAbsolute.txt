@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\LLClassQue\bin\Debug\netcoreapp3.1\LLClassQue.exe
+C:\Users\91984\source\repos\LLClassQue\bin\Debug\netcoreapp3.1\LLClassQue.deps.json
+C:\Users\91984\source\repos\LLClassQue\bin\Debug\netcoreapp3.1\LLClassQue.runtimeconfig.json
+C:\Users\91984\source\repos\LLClassQue\bin\Debug\netcoreapp3.1\LLClassQue.runtimeconfig.dev.json
+C:\Users\91984\source\repos\LLClassQue\bin\Debug\netcoreapp3.1\LLClassQue.dll
+C:\Users\91984\source\repos\LLClassQue\bin\Debug\netcoreapp3.1\LLClassQue.pdb
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.AssemblyInfo.cs
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.dll
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.pdb
+C:\Users\91984\source\repos\LLClassQue\obj\Debug\netcoreapp3.1\LLClassQue.genruntimeconfig.cache

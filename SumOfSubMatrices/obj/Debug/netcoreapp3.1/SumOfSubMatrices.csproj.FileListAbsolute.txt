@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.AssemblyInfo.cs
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SumOfSubMatrices\bin\Debug\netcoreapp3.1\SumOfSubMatrices.exe
+C:\Users\91984\source\repos\SumOfSubMatrices\bin\Debug\netcoreapp3.1\SumOfSubMatrices.deps.json
+C:\Users\91984\source\repos\SumOfSubMatrices\bin\Debug\netcoreapp3.1\SumOfSubMatrices.runtimeconfig.json
+C:\Users\91984\source\repos\SumOfSubMatrices\bin\Debug\netcoreapp3.1\SumOfSubMatrices.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SumOfSubMatrices\bin\Debug\netcoreapp3.1\SumOfSubMatrices.dll
+C:\Users\91984\source\repos\SumOfSubMatrices\bin\Debug\netcoreapp3.1\SumOfSubMatrices.pdb
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.dll
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.pdb
+C:\Users\91984\source\repos\SumOfSubMatrices\obj\Debug\netcoreapp3.1\SumOfSubMatrices.genruntimeconfig.cache

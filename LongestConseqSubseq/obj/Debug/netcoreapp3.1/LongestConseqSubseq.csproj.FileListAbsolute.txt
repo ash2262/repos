@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\LongestConseqSubseq\bin\Debug\netcoreapp3.1\LongestConseqSubseq.exe
+C:\Users\91984\source\repos\LongestConseqSubseq\bin\Debug\netcoreapp3.1\LongestConseqSubseq.deps.json
+C:\Users\91984\source\repos\LongestConseqSubseq\bin\Debug\netcoreapp3.1\LongestConseqSubseq.runtimeconfig.json
+C:\Users\91984\source\repos\LongestConseqSubseq\bin\Debug\netcoreapp3.1\LongestConseqSubseq.runtimeconfig.dev.json
+C:\Users\91984\source\repos\LongestConseqSubseq\bin\Debug\netcoreapp3.1\LongestConseqSubseq.dll
+C:\Users\91984\source\repos\LongestConseqSubseq\bin\Debug\netcoreapp3.1\LongestConseqSubseq.pdb
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.AssemblyInfo.cs
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.dll
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.pdb
+C:\Users\91984\source\repos\LongestConseqSubseq\obj\Debug\netcoreapp3.1\LongestConseqSubseq.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArraySecondLargest\bin\Debug\netcoreapp3.1\ArraySecondLargest.exe
+C:\Users\91984\source\repos\ArraySecondLargest\bin\Debug\netcoreapp3.1\ArraySecondLargest.deps.json
+C:\Users\91984\source\repos\ArraySecondLargest\bin\Debug\netcoreapp3.1\ArraySecondLargest.runtimeconfig.json
+C:\Users\91984\source\repos\ArraySecondLargest\bin\Debug\netcoreapp3.1\ArraySecondLargest.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArraySecondLargest\bin\Debug\netcoreapp3.1\ArraySecondLargest.dll
+C:\Users\91984\source\repos\ArraySecondLargest\bin\Debug\netcoreapp3.1\ArraySecondLargest.pdb
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.dll
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.pdb
+C:\Users\91984\source\repos\ArraySecondLargest\obj\Debug\netcoreapp3.1\ArraySecondLargest.genruntimeconfig.cache

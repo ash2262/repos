@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\HammingDist\bin\Debug\netcoreapp3.1\HammingDist.exe
+C:\Users\91984\source\repos\HammingDist\bin\Debug\netcoreapp3.1\HammingDist.deps.json
+C:\Users\91984\source\repos\HammingDist\bin\Debug\netcoreapp3.1\HammingDist.runtimeconfig.json
+C:\Users\91984\source\repos\HammingDist\bin\Debug\netcoreapp3.1\HammingDist.runtimeconfig.dev.json
+C:\Users\91984\source\repos\HammingDist\bin\Debug\netcoreapp3.1\HammingDist.dll
+C:\Users\91984\source\repos\HammingDist\bin\Debug\netcoreapp3.1\HammingDist.pdb
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.AssemblyInfo.cs
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.dll
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.pdb
+C:\Users\91984\source\repos\HammingDist\obj\Debug\netcoreapp3.1\HammingDist.genruntimeconfig.cache

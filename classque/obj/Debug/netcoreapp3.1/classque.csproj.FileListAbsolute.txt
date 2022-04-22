@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\classque\bin\Debug\netcoreapp3.1\classque.exe
+C:\Users\91984\source\repos\classque\bin\Debug\netcoreapp3.1\classque.deps.json
+C:\Users\91984\source\repos\classque\bin\Debug\netcoreapp3.1\classque.runtimeconfig.json
+C:\Users\91984\source\repos\classque\bin\Debug\netcoreapp3.1\classque.runtimeconfig.dev.json
+C:\Users\91984\source\repos\classque\bin\Debug\netcoreapp3.1\classque.dll
+C:\Users\91984\source\repos\classque\bin\Debug\netcoreapp3.1\classque.pdb
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.AssemblyInfo.cs
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.dll
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.pdb
+C:\Users\91984\source\repos\classque\obj\Debug\netcoreapp3.1\classque.genruntimeconfig.cache

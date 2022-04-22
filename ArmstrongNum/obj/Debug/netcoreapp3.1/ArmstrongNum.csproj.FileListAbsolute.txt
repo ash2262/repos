@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.exe
+C:\Users\91984\source\repos\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.deps.json
+C:\Users\91984\source\repos\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.runtimeconfig.json
+C:\Users\91984\source\repos\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.dll
+C:\Users\91984\source\repos\ArmstrongNum\bin\Debug\netcoreapp3.1\ArmstrongNum.pdb
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.dll
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.pdb
+C:\Users\91984\source\repos\ArmstrongNum\obj\Debug\netcoreapp3.1\ArmstrongNum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.exe
+C:\Users\91984\source\repos\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.deps.json
+C:\Users\91984\source\repos\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.runtimeconfig.json
+C:\Users\91984\source\repos\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.runtimeconfig.dev.json
+C:\Users\91984\source\repos\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.dll
+C:\Users\91984\source\repos\NextPermutation\bin\Debug\netcoreapp3.1\NextPermutation.pdb
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.AssemblyInfo.cs
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.dll
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.pdb
+C:\Users\91984\source\repos\NextPermutation\obj\Debug\netcoreapp3.1\NextPermutation.genruntimeconfig.cache

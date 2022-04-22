@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\LLTesting\bin\Debug\netcoreapp3.1\LLTesting.exe
+C:\Users\91984\source\repos\LLTesting\bin\Debug\netcoreapp3.1\LLTesting.deps.json
+C:\Users\91984\source\repos\LLTesting\bin\Debug\netcoreapp3.1\LLTesting.runtimeconfig.json
+C:\Users\91984\source\repos\LLTesting\bin\Debug\netcoreapp3.1\LLTesting.runtimeconfig.dev.json
+C:\Users\91984\source\repos\LLTesting\bin\Debug\netcoreapp3.1\LLTesting.dll
+C:\Users\91984\source\repos\LLTesting\bin\Debug\netcoreapp3.1\LLTesting.pdb
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.AssemblyInfo.cs
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.dll
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.pdb
+C:\Users\91984\source\repos\LLTesting\obj\Debug\netcoreapp3.1\LLTesting.genruntimeconfig.cache

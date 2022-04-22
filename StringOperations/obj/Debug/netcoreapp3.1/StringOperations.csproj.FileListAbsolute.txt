@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.exe
+C:\Users\91984\source\repos\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.deps.json
+C:\Users\91984\source\repos\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.runtimeconfig.json
+C:\Users\91984\source\repos\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.runtimeconfig.dev.json
+C:\Users\91984\source\repos\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.dll
+C:\Users\91984\source\repos\StringOperations\bin\Debug\netcoreapp3.1\StringOperations.pdb
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.AssemblyInfo.cs
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.dll
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.pdb
+C:\Users\91984\source\repos\StringOperations\obj\Debug\netcoreapp3.1\StringOperations.genruntimeconfig.cache

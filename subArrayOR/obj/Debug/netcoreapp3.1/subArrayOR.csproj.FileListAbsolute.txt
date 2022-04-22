@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\subArrayOR\bin\Debug\netcoreapp3.1\subArrayOR.exe
+C:\Users\91984\source\repos\subArrayOR\bin\Debug\netcoreapp3.1\subArrayOR.deps.json
+C:\Users\91984\source\repos\subArrayOR\bin\Debug\netcoreapp3.1\subArrayOR.runtimeconfig.json
+C:\Users\91984\source\repos\subArrayOR\bin\Debug\netcoreapp3.1\subArrayOR.runtimeconfig.dev.json
+C:\Users\91984\source\repos\subArrayOR\bin\Debug\netcoreapp3.1\subArrayOR.dll
+C:\Users\91984\source\repos\subArrayOR\bin\Debug\netcoreapp3.1\subArrayOR.pdb
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.AssemblyInfo.cs
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.dll
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.pdb
+C:\Users\91984\source\repos\subArrayOR\obj\Debug\netcoreapp3.1\subArrayOR.genruntimeconfig.cache

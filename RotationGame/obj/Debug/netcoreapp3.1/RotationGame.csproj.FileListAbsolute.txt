@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.AssemblyInfo.cs
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RotationGame\bin\Debug\netcoreapp3.1\RotationGame.exe
+C:\Users\91984\source\repos\RotationGame\bin\Debug\netcoreapp3.1\RotationGame.deps.json
+C:\Users\91984\source\repos\RotationGame\bin\Debug\netcoreapp3.1\RotationGame.runtimeconfig.json
+C:\Users\91984\source\repos\RotationGame\bin\Debug\netcoreapp3.1\RotationGame.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RotationGame\bin\Debug\netcoreapp3.1\RotationGame.dll
+C:\Users\91984\source\repos\RotationGame\bin\Debug\netcoreapp3.1\RotationGame.pdb
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.dll
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.pdb
+C:\Users\91984\source\repos\RotationGame\obj\Debug\netcoreapp3.1\RotationGame.genruntimeconfig.cache

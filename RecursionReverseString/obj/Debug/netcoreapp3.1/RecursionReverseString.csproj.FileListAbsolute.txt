@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RecursionReverseString\bin\Debug\netcoreapp3.1\RecursionReverseString.exe
+C:\Users\91984\source\repos\RecursionReverseString\bin\Debug\netcoreapp3.1\RecursionReverseString.deps.json
+C:\Users\91984\source\repos\RecursionReverseString\bin\Debug\netcoreapp3.1\RecursionReverseString.runtimeconfig.json
+C:\Users\91984\source\repos\RecursionReverseString\bin\Debug\netcoreapp3.1\RecursionReverseString.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RecursionReverseString\bin\Debug\netcoreapp3.1\RecursionReverseString.dll
+C:\Users\91984\source\repos\RecursionReverseString\bin\Debug\netcoreapp3.1\RecursionReverseString.pdb
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.AssemblyInfo.cs
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.dll
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.pdb
+C:\Users\91984\source\repos\RecursionReverseString\obj\Debug\netcoreapp3.1\RecursionReverseString.genruntimeconfig.cache

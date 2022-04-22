@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\maxShareProfit\bin\Debug\netcoreapp3.1\maxShareProfit.exe
+C:\Users\91984\source\repos\maxShareProfit\bin\Debug\netcoreapp3.1\maxShareProfit.deps.json
+C:\Users\91984\source\repos\maxShareProfit\bin\Debug\netcoreapp3.1\maxShareProfit.runtimeconfig.json
+C:\Users\91984\source\repos\maxShareProfit\bin\Debug\netcoreapp3.1\maxShareProfit.runtimeconfig.dev.json
+C:\Users\91984\source\repos\maxShareProfit\bin\Debug\netcoreapp3.1\maxShareProfit.dll
+C:\Users\91984\source\repos\maxShareProfit\bin\Debug\netcoreapp3.1\maxShareProfit.pdb
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.AssemblyInfo.cs
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.dll
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.pdb
+C:\Users\91984\source\repos\maxShareProfit\obj\Debug\netcoreapp3.1\maxShareProfit.genruntimeconfig.cache

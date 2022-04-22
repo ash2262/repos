@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\bin\Debug\spiralMatrix.exe.config
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\bin\Debug\spiralMatrix.exe
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\bin\Debug\spiralMatrix.pdb
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\obj\Debug\spiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\obj\Debug\spiralMatrix.exe
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\obj\Debug\spiralMatrix.pdb
+C:\Users\91984\source\repos\spiralMatrix\spiralMatrix\obj\Debug\spiralMatrix.csproj.AssemblyReference.cache

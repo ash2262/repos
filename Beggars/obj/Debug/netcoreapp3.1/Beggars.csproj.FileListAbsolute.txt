@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\Beggars\bin\Debug\netcoreapp3.1\Beggars.exe
+C:\Users\91984\source\repos\Beggars\bin\Debug\netcoreapp3.1\Beggars.deps.json
+C:\Users\91984\source\repos\Beggars\bin\Debug\netcoreapp3.1\Beggars.runtimeconfig.json
+C:\Users\91984\source\repos\Beggars\bin\Debug\netcoreapp3.1\Beggars.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Beggars\bin\Debug\netcoreapp3.1\Beggars.dll
+C:\Users\91984\source\repos\Beggars\bin\Debug\netcoreapp3.1\Beggars.pdb
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.AssemblyInfo.cs
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.dll
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.pdb
+C:\Users\91984\source\repos\Beggars\obj\Debug\netcoreapp3.1\Beggars.genruntimeconfig.cache

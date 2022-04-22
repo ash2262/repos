@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArrayFind\bin\Debug\netcoreapp3.1\ArrayFind.exe
+C:\Users\91984\source\repos\ArrayFind\bin\Debug\netcoreapp3.1\ArrayFind.deps.json
+C:\Users\91984\source\repos\ArrayFind\bin\Debug\netcoreapp3.1\ArrayFind.runtimeconfig.json
+C:\Users\91984\source\repos\ArrayFind\bin\Debug\netcoreapp3.1\ArrayFind.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArrayFind\bin\Debug\netcoreapp3.1\ArrayFind.dll
+C:\Users\91984\source\repos\ArrayFind\bin\Debug\netcoreapp3.1\ArrayFind.pdb
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.dll
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.pdb
+C:\Users\91984\source\repos\ArrayFind\obj\Debug\netcoreapp3.1\ArrayFind.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PrimeModulo\bin\Debug\netcoreapp3.1\PrimeModulo.exe
+C:\Users\91984\source\repos\PrimeModulo\bin\Debug\netcoreapp3.1\PrimeModulo.deps.json
+C:\Users\91984\source\repos\PrimeModulo\bin\Debug\netcoreapp3.1\PrimeModulo.runtimeconfig.json
+C:\Users\91984\source\repos\PrimeModulo\bin\Debug\netcoreapp3.1\PrimeModulo.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PrimeModulo\bin\Debug\netcoreapp3.1\PrimeModulo.dll
+C:\Users\91984\source\repos\PrimeModulo\bin\Debug\netcoreapp3.1\PrimeModulo.pdb
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.AssemblyInfo.cs
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.dll
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.pdb
+C:\Users\91984\source\repos\PrimeModulo\obj\Debug\netcoreapp3.1\PrimeModulo.genruntimeconfig.cache

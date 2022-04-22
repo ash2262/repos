@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MinMaxArray\bin\Debug\netcoreapp3.1\MinMaxArray.exe
+C:\Users\91984\source\repos\MinMaxArray\bin\Debug\netcoreapp3.1\MinMaxArray.deps.json
+C:\Users\91984\source\repos\MinMaxArray\bin\Debug\netcoreapp3.1\MinMaxArray.runtimeconfig.json
+C:\Users\91984\source\repos\MinMaxArray\bin\Debug\netcoreapp3.1\MinMaxArray.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MinMaxArray\bin\Debug\netcoreapp3.1\MinMaxArray.dll
+C:\Users\91984\source\repos\MinMaxArray\bin\Debug\netcoreapp3.1\MinMaxArray.pdb
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.AssemblyInfo.cs
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.dll
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.pdb
+C:\Users\91984\source\repos\MinMaxArray\obj\Debug\netcoreapp3.1\MinMaxArray.genruntimeconfig.cache

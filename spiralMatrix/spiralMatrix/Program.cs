@@ -1,0 +1,121 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ArrayUnion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] a = new int[3, 4] {
+                                       {0, 1, 2, 3} ,   /*  initializers for row indexed by 0 */
+                                       {4, 5, 6, 7} ,   /*  initializers for row indexed by 1 */
+                                       {8, 9, 10, 11}   /*  initializers for row indexed by 2 */
+                                    };
+            PrintSpiralMatrix(a);
+
+            Console.ReadKey();
+        }
+
+        private static void PrintSpiralMatrix(int[,] a)
+        {
+            int rowstart=0;
+            int columnstart = 0;
+            int rowend = a.GetLength(0);
+            int columnEnd = a.GetLength(1);
+
+            while((columnstart<=columnEnd)&&(rowstart<=rowend))
+            { 
+                for (int i = columnstart; i < columnEnd; i++)
+                {
+                    Console.WriteLine(a[rowstart,i]);
+                }
+                rowstart++;
+                for (int i = rowstart; i < rowend; i++)
+                {
+                    Console.WriteLine(a[i,columnEnd-1]);
+                }
+                columnEnd--;
+                if (rowstart < rowend)
+                {
+
+                    for (int i = columnEnd; i > columnstart; i--)
+                    {
+                        Console.WriteLine(a[rowend-1, i]);
+                    }
+                    rowend--;
+                }
+                if(columnstart<columnEnd)
+                { 
+                    for (int i = rowend-1; i > rowstart; i--)
+                    {
+                        Console.WriteLine(a[i,columnstart]);
+                    }
+                    columnstart++;
+                }
+            }
+
+        }
+
+        static void UnionArray(int[] arr1,
+                           int[] arr2)
+        {
+
+            // Taking max element present 
+            // in either array 
+            int m = arr1[arr1.Length - 1];
+            int n = arr2[arr2.Length - 1];
+
+            int ans = 0;
+
+            if (m > n)
+                ans = m;
+            else
+                ans = n;
+
+            // Finding elements from 1st array 
+            // (non duplicates only). Using 
+            // another array for storing union 
+            // elements of both arrays 
+            // Assuming max element present 
+            // in array is not more than 10^7 
+            int[] newtable = new int[ans + 1];
+
+            // First element is always 
+            // present in final answer 
+            Console.Write(arr1[0] + " ");
+
+            // Incrementing the First element's 
+            // count in it's corresponding 
+            // index in newtable 
+            ++newtable[arr1[0]];
+
+            // Starting traversing the first 
+            // array from 1st index till last 
+            for (int i = 1; i < arr1.Length; i++)
+            {
+                // Checking whether current 
+                // element is not equal to 
+                // it's previous element 
+                if (arr1[i] != arr1[i - 1])
+                {
+                    Console.Write(arr1[i] + " ");
+                    ++newtable[arr1[i]];
+                }
+            }
+            for (int j = 0; j < arr2.Length; j++)
+            {
+                // By checking whether it's already 
+                // present in newtable or not 
+                if (newtable[arr2[j]] == 0)
+                {
+                    Console.Write(arr2[j] + " ");
+                    ++newtable[arr2[j]];
+                }
+            }
+        }
+    }
+}

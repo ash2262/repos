@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.AssemblyInfo.cs
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\pubg\bin\Debug\netcoreapp3.1\pubg.exe
+C:\Users\91984\source\repos\pubg\bin\Debug\netcoreapp3.1\pubg.deps.json
+C:\Users\91984\source\repos\pubg\bin\Debug\netcoreapp3.1\pubg.runtimeconfig.json
+C:\Users\91984\source\repos\pubg\bin\Debug\netcoreapp3.1\pubg.runtimeconfig.dev.json
+C:\Users\91984\source\repos\pubg\bin\Debug\netcoreapp3.1\pubg.dll
+C:\Users\91984\source\repos\pubg\bin\Debug\netcoreapp3.1\pubg.pdb
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.dll
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.pdb
+C:\Users\91984\source\repos\pubg\obj\Debug\netcoreapp3.1\pubg.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.AssemblyInfo.cs
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RecursionSumOfDigits\bin\Debug\netcoreapp3.1\RecursionSumOfDigits.exe
+C:\Users\91984\source\repos\RecursionSumOfDigits\bin\Debug\netcoreapp3.1\RecursionSumOfDigits.deps.json
+C:\Users\91984\source\repos\RecursionSumOfDigits\bin\Debug\netcoreapp3.1\RecursionSumOfDigits.runtimeconfig.json
+C:\Users\91984\source\repos\RecursionSumOfDigits\bin\Debug\netcoreapp3.1\RecursionSumOfDigits.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RecursionSumOfDigits\bin\Debug\netcoreapp3.1\RecursionSumOfDigits.dll
+C:\Users\91984\source\repos\RecursionSumOfDigits\bin\Debug\netcoreapp3.1\RecursionSumOfDigits.pdb
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.dll
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.pdb
+C:\Users\91984\source\repos\RecursionSumOfDigits\obj\Debug\netcoreapp3.1\RecursionSumOfDigits.genruntimeconfig.cache

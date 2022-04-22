@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaximumSatisfaction\bin\Debug\netcoreapp3.1\MaximumSatisfaction.exe
+C:\Users\91984\source\repos\MaximumSatisfaction\bin\Debug\netcoreapp3.1\MaximumSatisfaction.deps.json
+C:\Users\91984\source\repos\MaximumSatisfaction\bin\Debug\netcoreapp3.1\MaximumSatisfaction.runtimeconfig.json
+C:\Users\91984\source\repos\MaximumSatisfaction\bin\Debug\netcoreapp3.1\MaximumSatisfaction.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaximumSatisfaction\bin\Debug\netcoreapp3.1\MaximumSatisfaction.dll
+C:\Users\91984\source\repos\MaximumSatisfaction\bin\Debug\netcoreapp3.1\MaximumSatisfaction.pdb
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.dll
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.pdb
+C:\Users\91984\source\repos\MaximumSatisfaction\obj\Debug\netcoreapp3.1\MaximumSatisfaction.genruntimeconfig.cache

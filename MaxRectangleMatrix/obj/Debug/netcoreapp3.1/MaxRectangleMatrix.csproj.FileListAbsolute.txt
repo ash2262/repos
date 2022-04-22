@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxRectangleMatrix\bin\Debug\netcoreapp3.1\MaxRectangleMatrix.exe
+C:\Users\91984\source\repos\MaxRectangleMatrix\bin\Debug\netcoreapp3.1\MaxRectangleMatrix.deps.json
+C:\Users\91984\source\repos\MaxRectangleMatrix\bin\Debug\netcoreapp3.1\MaxRectangleMatrix.runtimeconfig.json
+C:\Users\91984\source\repos\MaxRectangleMatrix\bin\Debug\netcoreapp3.1\MaxRectangleMatrix.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxRectangleMatrix\bin\Debug\netcoreapp3.1\MaxRectangleMatrix.dll
+C:\Users\91984\source\repos\MaxRectangleMatrix\bin\Debug\netcoreapp3.1\MaxRectangleMatrix.pdb
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.dll
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.pdb
+C:\Users\91984\source\repos\MaxRectangleMatrix\obj\Debug\netcoreapp3.1\MaxRectangleMatrix.genruntimeconfig.cache

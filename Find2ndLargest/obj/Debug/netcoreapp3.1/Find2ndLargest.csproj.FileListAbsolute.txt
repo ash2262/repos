@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\Find2ndLargest\bin\Debug\netcoreapp3.1\Find2ndLargest.exe
+C:\Users\91984\source\repos\Find2ndLargest\bin\Debug\netcoreapp3.1\Find2ndLargest.deps.json
+C:\Users\91984\source\repos\Find2ndLargest\bin\Debug\netcoreapp3.1\Find2ndLargest.runtimeconfig.json
+C:\Users\91984\source\repos\Find2ndLargest\bin\Debug\netcoreapp3.1\Find2ndLargest.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Find2ndLargest\bin\Debug\netcoreapp3.1\Find2ndLargest.dll
+C:\Users\91984\source\repos\Find2ndLargest\bin\Debug\netcoreapp3.1\Find2ndLargest.pdb
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.AssemblyInfo.cs
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.dll
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.pdb
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.genruntimeconfig.cache
+C:\Users\91984\source\repos\Find2ndLargest\obj\Debug\netcoreapp3.1\Find2ndLargest.csproj.AssemblyReference.cache

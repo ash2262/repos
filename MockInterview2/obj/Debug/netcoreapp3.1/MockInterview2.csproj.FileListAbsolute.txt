@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MockInterview2\bin\Debug\netcoreapp3.1\MockInterview2.exe
+C:\Users\91984\source\repos\MockInterview2\bin\Debug\netcoreapp3.1\MockInterview2.deps.json
+C:\Users\91984\source\repos\MockInterview2\bin\Debug\netcoreapp3.1\MockInterview2.runtimeconfig.json
+C:\Users\91984\source\repos\MockInterview2\bin\Debug\netcoreapp3.1\MockInterview2.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MockInterview2\bin\Debug\netcoreapp3.1\MockInterview2.dll
+C:\Users\91984\source\repos\MockInterview2\bin\Debug\netcoreapp3.1\MockInterview2.pdb
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.AssemblyInfo.cs
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.dll
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.pdb
+C:\Users\91984\source\repos\MockInterview2\obj\Debug\netcoreapp3.1\MockInterview2.genruntimeconfig.cache

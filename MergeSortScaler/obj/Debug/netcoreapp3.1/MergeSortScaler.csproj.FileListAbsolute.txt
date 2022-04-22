@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MergeSortScaler\bin\Debug\netcoreapp3.1\MergeSortScaler.exe
+C:\Users\91984\source\repos\MergeSortScaler\bin\Debug\netcoreapp3.1\MergeSortScaler.deps.json
+C:\Users\91984\source\repos\MergeSortScaler\bin\Debug\netcoreapp3.1\MergeSortScaler.runtimeconfig.json
+C:\Users\91984\source\repos\MergeSortScaler\bin\Debug\netcoreapp3.1\MergeSortScaler.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MergeSortScaler\bin\Debug\netcoreapp3.1\MergeSortScaler.dll
+C:\Users\91984\source\repos\MergeSortScaler\bin\Debug\netcoreapp3.1\MergeSortScaler.pdb
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.AssemblyInfo.cs
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.dll
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.pdb
+C:\Users\91984\source\repos\MergeSortScaler\obj\Debug\netcoreapp3.1\MergeSortScaler.genruntimeconfig.cache

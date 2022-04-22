@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.exe
+C:\Users\91984\source\repos\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.deps.json
+C:\Users\91984\source\repos\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.runtimeconfig.json
+C:\Users\91984\source\repos\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.runtimeconfig.dev.json
+C:\Users\91984\source\repos\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.dll
+C:\Users\91984\source\repos\HelloWorldTest\bin\Debug\netcoreapp3.1\HelloWorldTest.pdb
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.AssemblyInfo.cs
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.dll
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.pdb
+C:\Users\91984\source\repos\HelloWorldTest\obj\Debug\netcoreapp3.1\HelloWorldTest.genruntimeconfig.cache

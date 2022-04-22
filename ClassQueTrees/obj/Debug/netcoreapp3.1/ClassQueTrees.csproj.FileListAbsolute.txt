@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.AssemblyInfo.cs
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ClassQueTrees\bin\Debug\netcoreapp3.1\ClassQueTrees.exe
+C:\Users\91984\source\repos\ClassQueTrees\bin\Debug\netcoreapp3.1\ClassQueTrees.deps.json
+C:\Users\91984\source\repos\ClassQueTrees\bin\Debug\netcoreapp3.1\ClassQueTrees.runtimeconfig.json
+C:\Users\91984\source\repos\ClassQueTrees\bin\Debug\netcoreapp3.1\ClassQueTrees.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ClassQueTrees\bin\Debug\netcoreapp3.1\ClassQueTrees.dll
+C:\Users\91984\source\repos\ClassQueTrees\bin\Debug\netcoreapp3.1\ClassQueTrees.pdb
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.dll
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.pdb
+C:\Users\91984\source\repos\ClassQueTrees\obj\Debug\netcoreapp3.1\ClassQueTrees.genruntimeconfig.cache

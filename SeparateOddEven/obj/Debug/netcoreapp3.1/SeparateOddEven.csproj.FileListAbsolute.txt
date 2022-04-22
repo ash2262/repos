@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SeparateOddEven\bin\Debug\netcoreapp3.1\SeparateOddEven.exe
+C:\Users\91984\source\repos\SeparateOddEven\bin\Debug\netcoreapp3.1\SeparateOddEven.deps.json
+C:\Users\91984\source\repos\SeparateOddEven\bin\Debug\netcoreapp3.1\SeparateOddEven.runtimeconfig.json
+C:\Users\91984\source\repos\SeparateOddEven\bin\Debug\netcoreapp3.1\SeparateOddEven.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SeparateOddEven\bin\Debug\netcoreapp3.1\SeparateOddEven.dll
+C:\Users\91984\source\repos\SeparateOddEven\bin\Debug\netcoreapp3.1\SeparateOddEven.pdb
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.AssemblyInfo.cs
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.dll
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.pdb
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.genruntimeconfig.cache
+C:\Users\91984\source\repos\SeparateOddEven\obj\Debug\netcoreapp3.1\SeparateOddEven.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassQueTrees", "ClassQueTrees.csproj", "{46BFE5EB-3B95-4D9C-A3D4-4DF00D1A2464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46BFE5EB-3B95-4D9C-A3D4-4DF00D1A2464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BFE5EB-3B95-4D9C-A3D4-4DF00D1A2464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BFE5EB-3B95-4D9C-A3D4-4DF00D1A2464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BFE5EB-3B95-4D9C-A3D4-4DF00D1A2464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2BB767-748D-4760-9678-FF71446A4B75}
+	EndGlobalSection
+EndGlobal

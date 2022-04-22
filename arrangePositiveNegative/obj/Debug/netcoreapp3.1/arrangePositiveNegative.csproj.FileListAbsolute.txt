@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\arrangePositiveNegative\bin\Debug\netcoreapp3.1\arrangePositiveNegative.exe
+C:\Users\91984\source\repos\arrangePositiveNegative\bin\Debug\netcoreapp3.1\arrangePositiveNegative.deps.json
+C:\Users\91984\source\repos\arrangePositiveNegative\bin\Debug\netcoreapp3.1\arrangePositiveNegative.runtimeconfig.json
+C:\Users\91984\source\repos\arrangePositiveNegative\bin\Debug\netcoreapp3.1\arrangePositiveNegative.runtimeconfig.dev.json
+C:\Users\91984\source\repos\arrangePositiveNegative\bin\Debug\netcoreapp3.1\arrangePositiveNegative.dll
+C:\Users\91984\source\repos\arrangePositiveNegative\bin\Debug\netcoreapp3.1\arrangePositiveNegative.pdb
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.AssemblyInfo.cs
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.dll
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.pdb
+C:\Users\91984\source\repos\arrangePositiveNegative\obj\Debug\netcoreapp3.1\arrangePositiveNegative.genruntimeconfig.cache

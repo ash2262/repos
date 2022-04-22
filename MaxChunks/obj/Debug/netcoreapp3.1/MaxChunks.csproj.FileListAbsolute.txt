@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaxChunks\bin\Debug\netcoreapp3.1\MaxChunks.exe
+C:\Users\91984\source\repos\MaxChunks\bin\Debug\netcoreapp3.1\MaxChunks.deps.json
+C:\Users\91984\source\repos\MaxChunks\bin\Debug\netcoreapp3.1\MaxChunks.runtimeconfig.json
+C:\Users\91984\source\repos\MaxChunks\bin\Debug\netcoreapp3.1\MaxChunks.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxChunks\bin\Debug\netcoreapp3.1\MaxChunks.dll
+C:\Users\91984\source\repos\MaxChunks\bin\Debug\netcoreapp3.1\MaxChunks.pdb
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.dll
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.pdb
+C:\Users\91984\source\repos\MaxChunks\obj\Debug\netcoreapp3.1\MaxChunks.genruntimeconfig.cache

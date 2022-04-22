@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\Isalpha\bin\Debug\netcoreapp3.1\Isalpha.exe
+C:\Users\91984\source\repos\Isalpha\bin\Debug\netcoreapp3.1\Isalpha.deps.json
+C:\Users\91984\source\repos\Isalpha\bin\Debug\netcoreapp3.1\Isalpha.runtimeconfig.json
+C:\Users\91984\source\repos\Isalpha\bin\Debug\netcoreapp3.1\Isalpha.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Isalpha\bin\Debug\netcoreapp3.1\Isalpha.dll
+C:\Users\91984\source\repos\Isalpha\bin\Debug\netcoreapp3.1\Isalpha.pdb
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.AssemblyInfo.cs
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.dll
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.pdb
+C:\Users\91984\source\repos\Isalpha\obj\Debug\netcoreapp3.1\Isalpha.genruntimeconfig.cache

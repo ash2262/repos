@@ -1,0 +1,5 @@
+C:\Users\91984\source\repos\Sorting\obj\Debug\netcoreapp3.1\Sorting.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\Sorting\obj\Debug\netcoreapp3.1\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Sorting\obj\Debug\netcoreapp3.1\Sorting.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Sorting\obj\Debug\netcoreapp3.1\Sorting.AssemblyInfo.cs
+C:\Users\91984\source\repos\Sorting\obj\Debug\netcoreapp3.1\Sorting.csproj.CoreCompileInputs.cache

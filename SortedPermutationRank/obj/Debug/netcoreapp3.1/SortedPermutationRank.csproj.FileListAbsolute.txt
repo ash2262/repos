@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.AssemblyInfo.cs
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SortedPermutationRank\bin\Debug\netcoreapp3.1\SortedPermutationRank.exe
+C:\Users\91984\source\repos\SortedPermutationRank\bin\Debug\netcoreapp3.1\SortedPermutationRank.deps.json
+C:\Users\91984\source\repos\SortedPermutationRank\bin\Debug\netcoreapp3.1\SortedPermutationRank.runtimeconfig.json
+C:\Users\91984\source\repos\SortedPermutationRank\bin\Debug\netcoreapp3.1\SortedPermutationRank.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SortedPermutationRank\bin\Debug\netcoreapp3.1\SortedPermutationRank.dll
+C:\Users\91984\source\repos\SortedPermutationRank\bin\Debug\netcoreapp3.1\SortedPermutationRank.pdb
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.dll
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.pdb
+C:\Users\91984\source\repos\SortedPermutationRank\obj\Debug\netcoreapp3.1\SortedPermutationRank.genruntimeconfig.cache

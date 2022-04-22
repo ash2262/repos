@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\subseqClassque\bin\Debug\netcoreapp3.1\subseqClassque.exe
+C:\Users\91984\source\repos\subseqClassque\bin\Debug\netcoreapp3.1\subseqClassque.deps.json
+C:\Users\91984\source\repos\subseqClassque\bin\Debug\netcoreapp3.1\subseqClassque.runtimeconfig.json
+C:\Users\91984\source\repos\subseqClassque\bin\Debug\netcoreapp3.1\subseqClassque.runtimeconfig.dev.json
+C:\Users\91984\source\repos\subseqClassque\bin\Debug\netcoreapp3.1\subseqClassque.dll
+C:\Users\91984\source\repos\subseqClassque\bin\Debug\netcoreapp3.1\subseqClassque.pdb
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.AssemblyInfo.cs
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.dll
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.pdb
+C:\Users\91984\source\repos\subseqClassque\obj\Debug\netcoreapp3.1\subseqClassque.genruntimeconfig.cache

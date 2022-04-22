@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\FindMatrix\bin\Debug\netcoreapp3.1\FindMatrix.exe
+C:\Users\91984\source\repos\FindMatrix\bin\Debug\netcoreapp3.1\FindMatrix.deps.json
+C:\Users\91984\source\repos\FindMatrix\bin\Debug\netcoreapp3.1\FindMatrix.runtimeconfig.json
+C:\Users\91984\source\repos\FindMatrix\bin\Debug\netcoreapp3.1\FindMatrix.runtimeconfig.dev.json
+C:\Users\91984\source\repos\FindMatrix\bin\Debug\netcoreapp3.1\FindMatrix.dll
+C:\Users\91984\source\repos\FindMatrix\bin\Debug\netcoreapp3.1\FindMatrix.pdb
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.AssemblyInfo.cs
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.dll
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.pdb
+C:\Users\91984\source\repos\FindMatrix\obj\Debug\netcoreapp3.1\FindMatrix.genruntimeconfig.cache

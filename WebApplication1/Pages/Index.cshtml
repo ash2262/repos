@@ -1,0 +1,408 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+
+<h4 class="panel-title" style="padding-left:9%">Enter Contact Information</h4>
+
+<div class="container container-fluid ng-cloak" ng-app="tpoApp" ng-controller="ContactsController" style="background-color: rgb(210,215,215,0.22) !important;">
+
+    <div id="left" style="float:left; width:50%;"> 
+        <div class="panel panel-default ">
+
+            <div class="panel-heading"> </div>
+
+            <div class="panel-body">
+
+                <div id="primaryContactContainer">
+
+                    <span class="panel-title">PRIMARY CONTACT</span>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <span class="required" ng-show="IsPrimaryContactsMandatory">*</span> <label for="txtprimarycontactName">Name</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtprimarycontactName" ng-model="contactsModel.MainModel.PrimaryContactModel.Name" />
+
+                        </div>
+
+                    </div>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <span class="required" ng-show="IsPrimaryContactsMandatory">*</span> <label for="txtprimarycontactPhone">Phone Number</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtprimarycontactPhone" phone-input ng-model="contactsModel.MainModel.PrimaryContactModel.Phone" />
+
+                        </div>
+
+                    </div>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <span class="required" ng-show="IsPrimaryContactsMandatory">*</span> <label for="txtprimarycontactEmail">Email Address</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtprimarycontactEmail" ng-model="contactsModel.MainModel.PrimaryContactModel.Email" />
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <hr />
+
+                <div id="secondoryContactContainer">
+
+                    <span class="panel-title">SECONDARY CONTACT</span>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <label for="txtsecondorycontactName">Name</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtsecondorycontactName" ng-model="contactsModel.MainModel.SecondoryContactModel.Name" />
+
+                        </div>
+
+                    </div>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <label for="txtsecondorycontactPhone">Phone Number</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtsecondorycontactPhone" phone-input ng-model="contactsModel.MainModel.SecondoryContactModel.Phone" />
+
+                        </div>
+
+                    </div>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <label for="txtsecondorycontactEmail">Email Address</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtsecondorycontactEmail" ng-model="contactsModel.MainModel.SecondoryContactModel.Email" />
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <hr />
+
+                <div id="postClosingContactContainer">
+
+                    <span class="panel-title">POST-CLOSING CONTACT</span>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <span class="required" ng-show="IsPostClosingCotactMandatory">*</span>  <label for="txtpostClosingcontactName">Name</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtpostClosingcontactName" ng-model="contactsModel.MainModel.PostClosingContactModel.Name" />
+
+                        </div>
+
+                    </div>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <span class="required" ng-show="IsPostClosingCotactMandatory">*</span> <label for="txtpostClosingcontactPhone">Phone Number</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtpostClosingcontactPhone" phone-input ng-model="contactsModel.MainModel.PostClosingContactModel.Phone" />
+
+                        </div>
+
+                    </div>
+
+                    <div class="row contact-row">
+
+
+
+                        <div class="col-sm-3">
+
+                            <span class="required" ng-show="IsPostClosingCotactMandatory">*</span> <label for="txtpostClosingcontactEmail">Email Address</label>
+
+                        </div>
+
+                        <div class="col-sm-4">
+
+                            <input type="text" id="txtpostClosingcontactEmail" ng-model="contactsModel.MainModel.PostClosingContactModel.Email" />
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <hr />
+
+
+
+                <div class="row" style="margin-top:2% !important">
+
+                    <div class="col-sm-3"></div>
+
+
+
+                    <div class="col-sm-4" style="float:right;margin-right: 30%;">
+
+                        <button class="btn btn-primary ng-binding" ng-click="OnSaveContactsClick()">Save</button>
+
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+    </div>
+    <div id="right" style="float:right; width:50%;"> 
+        <div id="postClosingContactContainer">
+
+            <span class="panel-title">ADDITIONAL INFORMATION - AUS Findings</span>
+
+            <div class="row contact-row">
+
+
+
+                <div class="col-sm-5">
+
+                    <span class="optional" ng-show="IsPostClosingCotactMandatory">*</span>  <label for="txtpostClosingcontactName">Encompass 1543</label>
+
+                </div>
+
+                <div class="col-sm-6">
+
+                    <input type="text" id="txtpostClosingcontact" ng-model="contactsModel.MainModel.AdditionalInformationModel.Encompass1543" />
+
+                </div>
+
+            </div>
+
+            <div class="row contact-row">
+
+
+
+                <div class="col-sm-5">
+
+                    <span class="optional" ng-show="IsPostClosingCotactMandatory">*</span> <label for="txtpostClosingcontactPhone">Encompass 1003</label>
+
+                </div>
+
+                <div class="col-sm-6">
+
+                    <input type="text" id="txtpostClosingcontact" ng-model="contactsModel.MainModel.AdditionalInformationModel.Encompass1003" />
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    
+
+    <div class="modal fade" id="alertDialog" role="dialog" data-backdrop="static" data-keyboard="false">
+
+        <div class="modal-dialog">
+
+
+
+            <!-- Modal content-->
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+
+                    <h4 class="modal-title">Alert</h4> <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+
+
+                </div>
+
+                <div class="modal-body">
+
+                    <p id="modalAlertMessage" class="lert  alert alert-danger">.</p>
+
+                </div>
+
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <div id="spinnerContainer" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false" style="display:none;height: 177px;width: 161px;margin-left: 600px;margin-top: 300px;overflow-y:hidden">
+
+        <div id="spinner">
+
+            <p id="svg-message-text"></p>
+
+            <svg id="spinnersvg" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+
+
+
+                <defs>
+
+                    <style>
+
+                        .a {
+                            fill: #fff;
+                        }
+
+
+
+                        .b {
+                            fill: #e4e4e4;
+                        }
+
+
+
+                        .c {
+                            fill: #1394e5;
+                        }
+
+
+
+                        #Layer_1 {
+                            width: 48px;
+                            margin: auto;
+                        }
+                    </style>
+
+                </defs>
+
+
+
+                <g id="rotateSquare">
+
+                    <animateTransform attributeType="XML"
+                                      attributeName="transform"
+                                      type="rotate"
+                                      from="0,22,22" to="360,22,22"
+                                      begin="0s" dur="0.8s"
+                                      repeatCount="indefinite" />
+
+                    <circle class="a" cx="22" cy="22" r="22" />
+
+                    <path class="b" d="M22,10A12,12,0,1,1,10,22,12,12,0,0,1,22,10m0-2A14,14,0,1,0,36,22,14,14,0,0,0,22,8h0Z" />
+
+                    <path class="c" d="M22,8v2A12,12,0,0,1,34,22h2A14,14,0,0,0,22,8Z" />
+
+
+
+                </g>
+
+            </svg>
+
+
+
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+
+
+
+<link href="~/css/app/Contacts.css" rel="stylesheet" />
+
+<script src="https://3967562275.encompasstpoconnect.com/scripts/elli-ssf-guest.js"></script>
+
+<script src="~/js/polyfill.min.js"></script>
+
+
+
+<script src="~/js/angular-1.7.8.min.js"></script>
+
+<script src="~/js/app/Contacts.js"></script>
+
+<script src="~/js/site.js"></script>
+

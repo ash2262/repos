@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.exe
+C:\Users\91984\source\repos\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.deps.json
+C:\Users\91984\source\repos\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.runtimeconfig.json
+C:\Users\91984\source\repos\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.dll
+C:\Users\91984\source\repos\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.pdb
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.AssemblyInfo.cs
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.dll
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.pdb
+C:\Users\91984\source\repos\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.genruntimeconfig.cache

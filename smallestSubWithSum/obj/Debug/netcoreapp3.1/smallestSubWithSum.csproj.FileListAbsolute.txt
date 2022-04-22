@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.AssemblyInfo.cs
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\smallestSubWithSum\bin\Debug\netcoreapp3.1\smallestSubWithSum.exe
+C:\Users\91984\source\repos\smallestSubWithSum\bin\Debug\netcoreapp3.1\smallestSubWithSum.deps.json
+C:\Users\91984\source\repos\smallestSubWithSum\bin\Debug\netcoreapp3.1\smallestSubWithSum.runtimeconfig.json
+C:\Users\91984\source\repos\smallestSubWithSum\bin\Debug\netcoreapp3.1\smallestSubWithSum.runtimeconfig.dev.json
+C:\Users\91984\source\repos\smallestSubWithSum\bin\Debug\netcoreapp3.1\smallestSubWithSum.dll
+C:\Users\91984\source\repos\smallestSubWithSum\bin\Debug\netcoreapp3.1\smallestSubWithSum.pdb
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.dll
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.pdb
+C:\Users\91984\source\repos\smallestSubWithSum\obj\Debug\netcoreapp3.1\smallestSubWithSum.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\MinHeights\MinHeights\obj\Debug\MinHeights.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\MinHeights\MinHeights\obj\Debug\MinHeights.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MinHeights\MinHeights\bin\Debug\MinHeights.exe.config
+C:\Users\91984\source\repos\MinHeights\MinHeights\bin\Debug\MinHeights.exe
+C:\Users\91984\source\repos\MinHeights\MinHeights\bin\Debug\MinHeights.pdb
+C:\Users\91984\source\repos\MinHeights\MinHeights\obj\Debug\MinHeights.exe
+C:\Users\91984\source\repos\MinHeights\MinHeights\obj\Debug\MinHeights.pdb

@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.exe.config
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.exe
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.pdb
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.exe
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.pdb
+C:\Users\91984\source\repos\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.csprojAssemblyReference.cache

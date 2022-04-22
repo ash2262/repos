@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\maxDistance\bin\Debug\netcoreapp3.1\maxDistance.exe
+C:\Users\91984\source\repos\maxDistance\bin\Debug\netcoreapp3.1\maxDistance.deps.json
+C:\Users\91984\source\repos\maxDistance\bin\Debug\netcoreapp3.1\maxDistance.runtimeconfig.json
+C:\Users\91984\source\repos\maxDistance\bin\Debug\netcoreapp3.1\maxDistance.runtimeconfig.dev.json
+C:\Users\91984\source\repos\maxDistance\bin\Debug\netcoreapp3.1\maxDistance.dll
+C:\Users\91984\source\repos\maxDistance\bin\Debug\netcoreapp3.1\maxDistance.pdb
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.AssemblyInfo.cs
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.dll
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.pdb
+C:\Users\91984\source\repos\maxDistance\obj\Debug\netcoreapp3.1\maxDistance.genruntimeconfig.cache

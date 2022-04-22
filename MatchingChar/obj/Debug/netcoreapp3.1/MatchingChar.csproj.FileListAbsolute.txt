@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MatchingChar\bin\Debug\netcoreapp3.1\MatchingChar.exe
+C:\Users\91984\source\repos\MatchingChar\bin\Debug\netcoreapp3.1\MatchingChar.deps.json
+C:\Users\91984\source\repos\MatchingChar\bin\Debug\netcoreapp3.1\MatchingChar.runtimeconfig.json
+C:\Users\91984\source\repos\MatchingChar\bin\Debug\netcoreapp3.1\MatchingChar.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MatchingChar\bin\Debug\netcoreapp3.1\MatchingChar.dll
+C:\Users\91984\source\repos\MatchingChar\bin\Debug\netcoreapp3.1\MatchingChar.pdb
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.AssemblyInfo.cs
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.dll
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.pdb
+C:\Users\91984\source\repos\MatchingChar\obj\Debug\netcoreapp3.1\MatchingChar.genruntimeconfig.cache

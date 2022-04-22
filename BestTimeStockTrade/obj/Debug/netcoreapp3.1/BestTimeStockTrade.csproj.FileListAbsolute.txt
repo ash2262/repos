@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\BestTimeStockTrade\bin\Debug\netcoreapp3.1\BestTimeStockTrade.exe
+C:\Users\91984\source\repos\BestTimeStockTrade\bin\Debug\netcoreapp3.1\BestTimeStockTrade.deps.json
+C:\Users\91984\source\repos\BestTimeStockTrade\bin\Debug\netcoreapp3.1\BestTimeStockTrade.runtimeconfig.json
+C:\Users\91984\source\repos\BestTimeStockTrade\bin\Debug\netcoreapp3.1\BestTimeStockTrade.runtimeconfig.dev.json
+C:\Users\91984\source\repos\BestTimeStockTrade\bin\Debug\netcoreapp3.1\BestTimeStockTrade.dll
+C:\Users\91984\source\repos\BestTimeStockTrade\bin\Debug\netcoreapp3.1\BestTimeStockTrade.pdb
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.AssemblyInfo.cs
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.dll
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.pdb
+C:\Users\91984\source\repos\BestTimeStockTrade\obj\Debug\netcoreapp3.1\BestTimeStockTrade.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\bin\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.exe
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\bin\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.deps.json
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\bin\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.runtimeconfig.json
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\bin\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\bin\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.dll
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\bin\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.pdb
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.dll
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.pdb
+C:\Users\91984\source\repos\ArraySumofOddEvenIdx\obj\Debug\netcoreapp3.1\ArraySumofOddEvenIdx.genruntimeconfig.cache

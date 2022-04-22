@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PrimeModulo/1.0.0": {
+        "runtime": {
+          "PrimeModulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeModulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\91984\source\repos\CarryForward\obj\Debug\netcoreapp3.1\CarryForward.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\CarryForward\obj\Debug\netcoreapp3.1\CarryForward.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\CarryForward\obj\Debug\netcoreapp3.1\CarryForward.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\CarryForward\obj\Debug\netcoreapp3.1\CarryForward.AssemblyInfo.cs
+C:\Users\91984\source\repos\CarryForward\obj\Debug\netcoreapp3.1\CarryForward.csproj.CoreCompileInputs.cache

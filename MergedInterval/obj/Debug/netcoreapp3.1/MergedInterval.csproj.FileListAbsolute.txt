@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MergedInterval\bin\Debug\netcoreapp3.1\MergedInterval.exe
+C:\Users\91984\source\repos\MergedInterval\bin\Debug\netcoreapp3.1\MergedInterval.deps.json
+C:\Users\91984\source\repos\MergedInterval\bin\Debug\netcoreapp3.1\MergedInterval.runtimeconfig.json
+C:\Users\91984\source\repos\MergedInterval\bin\Debug\netcoreapp3.1\MergedInterval.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MergedInterval\bin\Debug\netcoreapp3.1\MergedInterval.dll
+C:\Users\91984\source\repos\MergedInterval\bin\Debug\netcoreapp3.1\MergedInterval.pdb
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.AssemblyInfo.cs
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.dll
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.pdb
+C:\Users\91984\source\repos\MergedInterval\obj\Debug\netcoreapp3.1\MergedInterval.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SearchRange\bin\Debug\netcoreapp3.1\SearchRange.exe
+C:\Users\91984\source\repos\SearchRange\bin\Debug\netcoreapp3.1\SearchRange.deps.json
+C:\Users\91984\source\repos\SearchRange\bin\Debug\netcoreapp3.1\SearchRange.runtimeconfig.json
+C:\Users\91984\source\repos\SearchRange\bin\Debug\netcoreapp3.1\SearchRange.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SearchRange\bin\Debug\netcoreapp3.1\SearchRange.dll
+C:\Users\91984\source\repos\SearchRange\bin\Debug\netcoreapp3.1\SearchRange.pdb
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.AssemblyInfo.cs
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.dll
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.pdb
+C:\Users\91984\source\repos\SearchRange\obj\Debug\netcoreapp3.1\SearchRange.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RainWaterTrap\bin\Debug\netcoreapp3.1\RainWaterTrap.exe
+C:\Users\91984\source\repos\RainWaterTrap\bin\Debug\netcoreapp3.1\RainWaterTrap.deps.json
+C:\Users\91984\source\repos\RainWaterTrap\bin\Debug\netcoreapp3.1\RainWaterTrap.runtimeconfig.json
+C:\Users\91984\source\repos\RainWaterTrap\bin\Debug\netcoreapp3.1\RainWaterTrap.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RainWaterTrap\bin\Debug\netcoreapp3.1\RainWaterTrap.dll
+C:\Users\91984\source\repos\RainWaterTrap\bin\Debug\netcoreapp3.1\RainWaterTrap.pdb
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.AssemblyInfo.cs
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.dll
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.pdb
+C:\Users\91984\source\repos\RainWaterTrap\obj\Debug\netcoreapp3.1\RainWaterTrap.genruntimeconfig.cache

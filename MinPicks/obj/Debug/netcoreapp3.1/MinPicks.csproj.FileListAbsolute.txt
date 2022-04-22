@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MinPicks\bin\Debug\netcoreapp3.1\MinPicks.exe
+C:\Users\91984\source\repos\MinPicks\bin\Debug\netcoreapp3.1\MinPicks.deps.json
+C:\Users\91984\source\repos\MinPicks\bin\Debug\netcoreapp3.1\MinPicks.runtimeconfig.json
+C:\Users\91984\source\repos\MinPicks\bin\Debug\netcoreapp3.1\MinPicks.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MinPicks\bin\Debug\netcoreapp3.1\MinPicks.dll
+C:\Users\91984\source\repos\MinPicks\bin\Debug\netcoreapp3.1\MinPicks.pdb
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.AssemblyInfo.cs
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.dll
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.pdb
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.genruntimeconfig.cache
+C:\Users\91984\source\repos\MinPicks\obj\Debug\netcoreapp3.1\MinPicks.csproj.AssemblyReference.cache

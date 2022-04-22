@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArrayRangeSumQuery\bin\Debug\netcoreapp3.1\ArrayRangeSumQuery.exe
+C:\Users\91984\source\repos\ArrayRangeSumQuery\bin\Debug\netcoreapp3.1\ArrayRangeSumQuery.deps.json
+C:\Users\91984\source\repos\ArrayRangeSumQuery\bin\Debug\netcoreapp3.1\ArrayRangeSumQuery.runtimeconfig.json
+C:\Users\91984\source\repos\ArrayRangeSumQuery\bin\Debug\netcoreapp3.1\ArrayRangeSumQuery.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArrayRangeSumQuery\bin\Debug\netcoreapp3.1\ArrayRangeSumQuery.dll
+C:\Users\91984\source\repos\ArrayRangeSumQuery\bin\Debug\netcoreapp3.1\ArrayRangeSumQuery.pdb
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.dll
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.pdb
+C:\Users\91984\source\repos\ArrayRangeSumQuery\obj\Debug\netcoreapp3.1\ArrayRangeSumQuery.genruntimeconfig.cache

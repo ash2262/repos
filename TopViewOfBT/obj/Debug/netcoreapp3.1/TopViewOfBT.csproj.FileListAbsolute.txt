@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\TopViewOfBT\bin\Debug\netcoreapp3.1\TopViewOfBT.exe
+C:\Users\91984\source\repos\TopViewOfBT\bin\Debug\netcoreapp3.1\TopViewOfBT.deps.json
+C:\Users\91984\source\repos\TopViewOfBT\bin\Debug\netcoreapp3.1\TopViewOfBT.runtimeconfig.json
+C:\Users\91984\source\repos\TopViewOfBT\bin\Debug\netcoreapp3.1\TopViewOfBT.runtimeconfig.dev.json
+C:\Users\91984\source\repos\TopViewOfBT\bin\Debug\netcoreapp3.1\TopViewOfBT.dll
+C:\Users\91984\source\repos\TopViewOfBT\bin\Debug\netcoreapp3.1\TopViewOfBT.pdb
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.AssemblyInfo.cs
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.dll
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.pdb
+C:\Users\91984\source\repos\TopViewOfBT\obj\Debug\netcoreapp3.1\TopViewOfBT.genruntimeconfig.cache

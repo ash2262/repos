@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PrimeSubsequence\bin\Debug\netcoreapp3.1\PrimeSubsequence.exe
+C:\Users\91984\source\repos\PrimeSubsequence\bin\Debug\netcoreapp3.1\PrimeSubsequence.deps.json
+C:\Users\91984\source\repos\PrimeSubsequence\bin\Debug\netcoreapp3.1\PrimeSubsequence.runtimeconfig.json
+C:\Users\91984\source\repos\PrimeSubsequence\bin\Debug\netcoreapp3.1\PrimeSubsequence.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PrimeSubsequence\bin\Debug\netcoreapp3.1\PrimeSubsequence.dll
+C:\Users\91984\source\repos\PrimeSubsequence\bin\Debug\netcoreapp3.1\PrimeSubsequence.pdb
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.AssemblyInfo.cs
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.dll
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.pdb
+C:\Users\91984\source\repos\PrimeSubsequence\obj\Debug\netcoreapp3.1\PrimeSubsequence.genruntimeconfig.cache

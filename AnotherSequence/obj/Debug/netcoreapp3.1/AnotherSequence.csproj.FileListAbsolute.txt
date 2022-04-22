@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\AnotherSequence\bin\Debug\netcoreapp3.1\AnotherSequence.exe
+C:\Users\91984\source\repos\AnotherSequence\bin\Debug\netcoreapp3.1\AnotherSequence.deps.json
+C:\Users\91984\source\repos\AnotherSequence\bin\Debug\netcoreapp3.1\AnotherSequence.runtimeconfig.json
+C:\Users\91984\source\repos\AnotherSequence\bin\Debug\netcoreapp3.1\AnotherSequence.runtimeconfig.dev.json
+C:\Users\91984\source\repos\AnotherSequence\bin\Debug\netcoreapp3.1\AnotherSequence.dll
+C:\Users\91984\source\repos\AnotherSequence\bin\Debug\netcoreapp3.1\AnotherSequence.pdb
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.AssemblyInfo.cs
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.dll
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.pdb
+C:\Users\91984\source\repos\AnotherSequence\obj\Debug\netcoreapp3.1\AnotherSequence.genruntimeconfig.cache

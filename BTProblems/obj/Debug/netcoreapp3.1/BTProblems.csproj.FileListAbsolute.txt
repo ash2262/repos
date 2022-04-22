@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\BTProblems\bin\Debug\netcoreapp3.1\BTProblems.exe
+C:\Users\91984\source\repos\BTProblems\bin\Debug\netcoreapp3.1\BTProblems.deps.json
+C:\Users\91984\source\repos\BTProblems\bin\Debug\netcoreapp3.1\BTProblems.runtimeconfig.json
+C:\Users\91984\source\repos\BTProblems\bin\Debug\netcoreapp3.1\BTProblems.runtimeconfig.dev.json
+C:\Users\91984\source\repos\BTProblems\bin\Debug\netcoreapp3.1\BTProblems.dll
+C:\Users\91984\source\repos\BTProblems\bin\Debug\netcoreapp3.1\BTProblems.pdb
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.AssemblyInfo.cs
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.dll
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.pdb
+C:\Users\91984\source\repos\BTProblems\obj\Debug\netcoreapp3.1\BTProblems.genruntimeconfig.cache

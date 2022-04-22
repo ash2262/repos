@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.AssemblyInfo.cs
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\CountDivisors\bin\Debug\netcoreapp3.1\CountDivisors.exe
+C:\Users\91984\source\repos\CountDivisors\bin\Debug\netcoreapp3.1\CountDivisors.deps.json
+C:\Users\91984\source\repos\CountDivisors\bin\Debug\netcoreapp3.1\CountDivisors.runtimeconfig.json
+C:\Users\91984\source\repos\CountDivisors\bin\Debug\netcoreapp3.1\CountDivisors.runtimeconfig.dev.json
+C:\Users\91984\source\repos\CountDivisors\bin\Debug\netcoreapp3.1\CountDivisors.dll
+C:\Users\91984\source\repos\CountDivisors\bin\Debug\netcoreapp3.1\CountDivisors.pdb
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.dll
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.pdb
+C:\Users\91984\source\repos\CountDivisors\obj\Debug\netcoreapp3.1\CountDivisors.genruntimeconfig.cache

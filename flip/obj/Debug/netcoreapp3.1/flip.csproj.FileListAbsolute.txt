@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\flip\bin\Debug\netcoreapp3.1\flip.exe
+C:\Users\91984\source\repos\flip\bin\Debug\netcoreapp3.1\flip.deps.json
+C:\Users\91984\source\repos\flip\bin\Debug\netcoreapp3.1\flip.runtimeconfig.json
+C:\Users\91984\source\repos\flip\bin\Debug\netcoreapp3.1\flip.runtimeconfig.dev.json
+C:\Users\91984\source\repos\flip\bin\Debug\netcoreapp3.1\flip.dll
+C:\Users\91984\source\repos\flip\bin\Debug\netcoreapp3.1\flip.pdb
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.AssemblyInfo.cs
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.dll
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.pdb
+C:\Users\91984\source\repos\flip\obj\Debug\netcoreapp3.1\flip.genruntimeconfig.cache

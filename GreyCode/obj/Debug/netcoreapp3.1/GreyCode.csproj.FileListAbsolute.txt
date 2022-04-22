@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.AssemblyInfo.cs
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\GreyCode\bin\Debug\netcoreapp3.1\GreyCode.exe
+C:\Users\91984\source\repos\GreyCode\bin\Debug\netcoreapp3.1\GreyCode.deps.json
+C:\Users\91984\source\repos\GreyCode\bin\Debug\netcoreapp3.1\GreyCode.runtimeconfig.json
+C:\Users\91984\source\repos\GreyCode\bin\Debug\netcoreapp3.1\GreyCode.runtimeconfig.dev.json
+C:\Users\91984\source\repos\GreyCode\bin\Debug\netcoreapp3.1\GreyCode.dll
+C:\Users\91984\source\repos\GreyCode\bin\Debug\netcoreapp3.1\GreyCode.pdb
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.dll
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.pdb
+C:\Users\91984\source\repos\GreyCode\obj\Debug\netcoreapp3.1\GreyCode.genruntimeconfig.cache

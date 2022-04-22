@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.AssemblyInfo.cs
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\LuckyNoSieve\bin\Debug\netcoreapp3.1\LuckyNoSieve.exe
+C:\Users\91984\source\repos\LuckyNoSieve\bin\Debug\netcoreapp3.1\LuckyNoSieve.deps.json
+C:\Users\91984\source\repos\LuckyNoSieve\bin\Debug\netcoreapp3.1\LuckyNoSieve.runtimeconfig.json
+C:\Users\91984\source\repos\LuckyNoSieve\bin\Debug\netcoreapp3.1\LuckyNoSieve.runtimeconfig.dev.json
+C:\Users\91984\source\repos\LuckyNoSieve\bin\Debug\netcoreapp3.1\LuckyNoSieve.dll
+C:\Users\91984\source\repos\LuckyNoSieve\bin\Debug\netcoreapp3.1\LuckyNoSieve.pdb
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.dll
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.pdb
+C:\Users\91984\source\repos\LuckyNoSieve\obj\Debug\netcoreapp3.1\LuckyNoSieve.genruntimeconfig.cache

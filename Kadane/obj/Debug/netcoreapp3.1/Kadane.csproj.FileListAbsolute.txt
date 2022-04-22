@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\Kadane\bin\Debug\netcoreapp3.1\Kadane.exe
+C:\Users\91984\source\repos\Kadane\bin\Debug\netcoreapp3.1\Kadane.deps.json
+C:\Users\91984\source\repos\Kadane\bin\Debug\netcoreapp3.1\Kadane.runtimeconfig.json
+C:\Users\91984\source\repos\Kadane\bin\Debug\netcoreapp3.1\Kadane.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Kadane\bin\Debug\netcoreapp3.1\Kadane.dll
+C:\Users\91984\source\repos\Kadane\bin\Debug\netcoreapp3.1\Kadane.pdb
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.AssemblyInfo.cs
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.dll
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.pdb
+C:\Users\91984\source\repos\Kadane\obj\Debug\netcoreapp3.1\Kadane.genruntimeconfig.cache

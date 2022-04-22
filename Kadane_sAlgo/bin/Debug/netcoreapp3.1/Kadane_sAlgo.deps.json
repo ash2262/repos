@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kadane_sAlgo/1.0.0": {
+        "runtime": {
+          "Kadane_sAlgo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kadane_sAlgo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

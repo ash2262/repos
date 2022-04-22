@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.AssemblyInfo.cs
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MergeSortedArrays\bin\Debug\netcoreapp3.1\MergeSortedArrays.exe
+C:\Users\91984\source\repos\MergeSortedArrays\bin\Debug\netcoreapp3.1\MergeSortedArrays.deps.json
+C:\Users\91984\source\repos\MergeSortedArrays\bin\Debug\netcoreapp3.1\MergeSortedArrays.runtimeconfig.json
+C:\Users\91984\source\repos\MergeSortedArrays\bin\Debug\netcoreapp3.1\MergeSortedArrays.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MergeSortedArrays\bin\Debug\netcoreapp3.1\MergeSortedArrays.dll
+C:\Users\91984\source\repos\MergeSortedArrays\bin\Debug\netcoreapp3.1\MergeSortedArrays.pdb
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.dll
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.pdb
+C:\Users\91984\source\repos\MergeSortedArrays\obj\Debug\netcoreapp3.1\MergeSortedArrays.genruntimeconfig.cache

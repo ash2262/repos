@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.AssemblyInfo.cs
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RepeatAndMissingNum\bin\Debug\netcoreapp3.1\RepeatAndMissingNum.exe
+C:\Users\91984\source\repos\RepeatAndMissingNum\bin\Debug\netcoreapp3.1\RepeatAndMissingNum.deps.json
+C:\Users\91984\source\repos\RepeatAndMissingNum\bin\Debug\netcoreapp3.1\RepeatAndMissingNum.runtimeconfig.json
+C:\Users\91984\source\repos\RepeatAndMissingNum\bin\Debug\netcoreapp3.1\RepeatAndMissingNum.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RepeatAndMissingNum\bin\Debug\netcoreapp3.1\RepeatAndMissingNum.dll
+C:\Users\91984\source\repos\RepeatAndMissingNum\bin\Debug\netcoreapp3.1\RepeatAndMissingNum.pdb
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.dll
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.pdb
+C:\Users\91984\source\repos\RepeatAndMissingNum\obj\Debug\netcoreapp3.1\RepeatAndMissingNum.genruntimeconfig.cache

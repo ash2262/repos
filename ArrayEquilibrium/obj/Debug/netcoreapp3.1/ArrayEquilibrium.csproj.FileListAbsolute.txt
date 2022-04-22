@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArrayEquilibrium\bin\Debug\netcoreapp3.1\ArrayEquilibrium.exe
+C:\Users\91984\source\repos\ArrayEquilibrium\bin\Debug\netcoreapp3.1\ArrayEquilibrium.deps.json
+C:\Users\91984\source\repos\ArrayEquilibrium\bin\Debug\netcoreapp3.1\ArrayEquilibrium.runtimeconfig.json
+C:\Users\91984\source\repos\ArrayEquilibrium\bin\Debug\netcoreapp3.1\ArrayEquilibrium.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArrayEquilibrium\bin\Debug\netcoreapp3.1\ArrayEquilibrium.dll
+C:\Users\91984\source\repos\ArrayEquilibrium\bin\Debug\netcoreapp3.1\ArrayEquilibrium.pdb
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.dll
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.pdb
+C:\Users\91984\source\repos\ArrayEquilibrium\obj\Debug\netcoreapp3.1\ArrayEquilibrium.genruntimeconfig.cache

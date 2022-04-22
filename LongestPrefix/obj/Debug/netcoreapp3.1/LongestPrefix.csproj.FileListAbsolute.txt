@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.exe
+C:\Users\91984\source\repos\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.deps.json
+C:\Users\91984\source\repos\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.runtimeconfig.json
+C:\Users\91984\source\repos\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.runtimeconfig.dev.json
+C:\Users\91984\source\repos\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.dll
+C:\Users\91984\source\repos\LongestPrefix\bin\Debug\netcoreapp3.1\LongestPrefix.pdb
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.AssemblyInfo.cs
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.dll
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.pdb
+C:\Users\91984\source\repos\LongestPrefix\obj\Debug\netcoreapp3.1\LongestPrefix.genruntimeconfig.cache

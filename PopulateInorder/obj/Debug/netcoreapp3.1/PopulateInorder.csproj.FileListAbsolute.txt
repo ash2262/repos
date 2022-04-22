@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PopulateInorder\bin\Debug\netcoreapp3.1\PopulateInorder.exe
+C:\Users\91984\source\repos\PopulateInorder\bin\Debug\netcoreapp3.1\PopulateInorder.deps.json
+C:\Users\91984\source\repos\PopulateInorder\bin\Debug\netcoreapp3.1\PopulateInorder.runtimeconfig.json
+C:\Users\91984\source\repos\PopulateInorder\bin\Debug\netcoreapp3.1\PopulateInorder.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PopulateInorder\bin\Debug\netcoreapp3.1\PopulateInorder.dll
+C:\Users\91984\source\repos\PopulateInorder\bin\Debug\netcoreapp3.1\PopulateInorder.pdb
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.AssemblyInfo.cs
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.dll
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.pdb
+C:\Users\91984\source\repos\PopulateInorder\obj\Debug\netcoreapp3.1\PopulateInorder.genruntimeconfig.cache

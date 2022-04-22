@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MinElimination\bin\Debug\netcoreapp3.1\MinElimination.exe
+C:\Users\91984\source\repos\MinElimination\bin\Debug\netcoreapp3.1\MinElimination.deps.json
+C:\Users\91984\source\repos\MinElimination\bin\Debug\netcoreapp3.1\MinElimination.runtimeconfig.json
+C:\Users\91984\source\repos\MinElimination\bin\Debug\netcoreapp3.1\MinElimination.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MinElimination\bin\Debug\netcoreapp3.1\MinElimination.dll
+C:\Users\91984\source\repos\MinElimination\bin\Debug\netcoreapp3.1\MinElimination.pdb
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.AssemblyInfo.cs
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.dll
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.pdb
+C:\Users\91984\source\repos\MinElimination\obj\Debug\netcoreapp3.1\MinElimination.genruntimeconfig.cache

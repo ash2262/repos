@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\FindMaxValueMat\bin\Debug\netcoreapp3.1\FindMaxValueMat.exe
+C:\Users\91984\source\repos\FindMaxValueMat\bin\Debug\netcoreapp3.1\FindMaxValueMat.deps.json
+C:\Users\91984\source\repos\FindMaxValueMat\bin\Debug\netcoreapp3.1\FindMaxValueMat.runtimeconfig.json
+C:\Users\91984\source\repos\FindMaxValueMat\bin\Debug\netcoreapp3.1\FindMaxValueMat.runtimeconfig.dev.json
+C:\Users\91984\source\repos\FindMaxValueMat\bin\Debug\netcoreapp3.1\FindMaxValueMat.dll
+C:\Users\91984\source\repos\FindMaxValueMat\bin\Debug\netcoreapp3.1\FindMaxValueMat.pdb
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.AssemblyInfo.cs
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.dll
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.pdb
+C:\Users\91984\source\repos\FindMaxValueMat\obj\Debug\netcoreapp3.1\FindMaxValueMat.genruntimeconfig.cache

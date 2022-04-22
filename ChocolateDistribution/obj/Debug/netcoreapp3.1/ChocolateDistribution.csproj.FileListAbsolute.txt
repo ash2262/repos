@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\ChocolateDistribution\bin\Debug\netcoreapp3.1\ChocolateDistribution.exe
+C:\Users\91984\source\repos\ChocolateDistribution\bin\Debug\netcoreapp3.1\ChocolateDistribution.deps.json
+C:\Users\91984\source\repos\ChocolateDistribution\bin\Debug\netcoreapp3.1\ChocolateDistribution.runtimeconfig.json
+C:\Users\91984\source\repos\ChocolateDistribution\bin\Debug\netcoreapp3.1\ChocolateDistribution.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ChocolateDistribution\bin\Debug\netcoreapp3.1\ChocolateDistribution.dll
+C:\Users\91984\source\repos\ChocolateDistribution\bin\Debug\netcoreapp3.1\ChocolateDistribution.pdb
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.AssemblyInfo.cs
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.dll
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.pdb
+C:\Users\91984\source\repos\ChocolateDistribution\obj\Debug\netcoreapp3.1\ChocolateDistribution.genruntimeconfig.cache

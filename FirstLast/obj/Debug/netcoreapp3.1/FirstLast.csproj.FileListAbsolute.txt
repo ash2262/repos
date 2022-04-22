@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\FirstLast\bin\Debug\netcoreapp3.1\FirstLast.exe
+C:\Users\91984\source\repos\FirstLast\bin\Debug\netcoreapp3.1\FirstLast.deps.json
+C:\Users\91984\source\repos\FirstLast\bin\Debug\netcoreapp3.1\FirstLast.runtimeconfig.json
+C:\Users\91984\source\repos\FirstLast\bin\Debug\netcoreapp3.1\FirstLast.runtimeconfig.dev.json
+C:\Users\91984\source\repos\FirstLast\bin\Debug\netcoreapp3.1\FirstLast.dll
+C:\Users\91984\source\repos\FirstLast\bin\Debug\netcoreapp3.1\FirstLast.pdb
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.AssemblyInfo.cs
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.dll
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.pdb
+C:\Users\91984\source\repos\FirstLast\obj\Debug\netcoreapp3.1\FirstLast.genruntimeconfig.cache

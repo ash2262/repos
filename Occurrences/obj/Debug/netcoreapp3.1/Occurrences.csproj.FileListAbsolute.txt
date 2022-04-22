@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\Occurrences\bin\Debug\netcoreapp3.1\Occurrences.exe
+C:\Users\91984\source\repos\Occurrences\bin\Debug\netcoreapp3.1\Occurrences.deps.json
+C:\Users\91984\source\repos\Occurrences\bin\Debug\netcoreapp3.1\Occurrences.runtimeconfig.json
+C:\Users\91984\source\repos\Occurrences\bin\Debug\netcoreapp3.1\Occurrences.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Occurrences\bin\Debug\netcoreapp3.1\Occurrences.dll
+C:\Users\91984\source\repos\Occurrences\bin\Debug\netcoreapp3.1\Occurrences.pdb
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.AssemblyInfo.cs
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.dll
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.pdb
+C:\Users\91984\source\repos\Occurrences\obj\Debug\netcoreapp3.1\Occurrences.genruntimeconfig.cache

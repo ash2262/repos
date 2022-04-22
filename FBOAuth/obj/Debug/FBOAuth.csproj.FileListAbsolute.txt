@@ -1,0 +1,15 @@
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\FBOAuth.exe.config
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\FBOAuth.exe
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\FBOAuth.pdb
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.Form1.resources
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.Properties.Resources.resources
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.csproj.GenerateResource.cache
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.exe
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.pdb
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\Facebook.dll
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\Facebook.xml
+C:\Users\91984\source\repos\FBOAuth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\91984\source\repos\FBOAuth\obj\Debug\FBOAuth.csproj.CopyComplete

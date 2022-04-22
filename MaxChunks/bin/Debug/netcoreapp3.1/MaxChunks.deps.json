@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaxChunks/1.0.0": {
+        "runtime": {
+          "MaxChunks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxChunks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

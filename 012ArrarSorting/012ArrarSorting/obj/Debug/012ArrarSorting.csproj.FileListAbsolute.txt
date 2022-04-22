@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\obj\Debug\012ArrarSorting.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\obj\Debug\012ArrarSorting.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\bin\Debug\012ArrarSorting.exe.config
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\bin\Debug\012ArrarSorting.exe
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\bin\Debug\012ArrarSorting.pdb
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\obj\Debug\012ArrarSorting.exe
+C:\Users\91984\source\repos\012ArrarSorting\012ArrarSorting\obj\Debug\012ArrarSorting.pdb

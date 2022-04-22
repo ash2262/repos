@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\obj\Debug\ArrayUnion.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\obj\Debug\ArrayUnion.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\bin\Debug\ArrayUnion.exe.config
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\bin\Debug\ArrayUnion.exe
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\bin\Debug\ArrayUnion.pdb
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\obj\Debug\ArrayUnion.exe
+C:\Users\91984\source\repos\ArrayUnion\ArrayUnion\obj\Debug\ArrayUnion.pdb

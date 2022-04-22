@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\KthSmallest\bin\Debug\netcoreapp3.1\KthSmallest.exe
+C:\Users\91984\source\repos\KthSmallest\bin\Debug\netcoreapp3.1\KthSmallest.deps.json
+C:\Users\91984\source\repos\KthSmallest\bin\Debug\netcoreapp3.1\KthSmallest.runtimeconfig.json
+C:\Users\91984\source\repos\KthSmallest\bin\Debug\netcoreapp3.1\KthSmallest.runtimeconfig.dev.json
+C:\Users\91984\source\repos\KthSmallest\bin\Debug\netcoreapp3.1\KthSmallest.dll
+C:\Users\91984\source\repos\KthSmallest\bin\Debug\netcoreapp3.1\KthSmallest.pdb
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.AssemblyInfo.cs
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.dll
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.pdb
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.genruntimeconfig.cache
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\KthSmallest\obj\Debug\netcoreapp3.1\KthSmallest.GeneratedMSBuildEditorConfig.editorconfig

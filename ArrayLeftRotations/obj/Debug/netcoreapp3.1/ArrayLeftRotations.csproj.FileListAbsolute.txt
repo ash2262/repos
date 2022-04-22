@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\ArrayLeftRotations\bin\Debug\netcoreapp3.1\ArrayLeftRotations.exe
+C:\Users\91984\source\repos\ArrayLeftRotations\bin\Debug\netcoreapp3.1\ArrayLeftRotations.deps.json
+C:\Users\91984\source\repos\ArrayLeftRotations\bin\Debug\netcoreapp3.1\ArrayLeftRotations.runtimeconfig.json
+C:\Users\91984\source\repos\ArrayLeftRotations\bin\Debug\netcoreapp3.1\ArrayLeftRotations.runtimeconfig.dev.json
+C:\Users\91984\source\repos\ArrayLeftRotations\bin\Debug\netcoreapp3.1\ArrayLeftRotations.dll
+C:\Users\91984\source\repos\ArrayLeftRotations\bin\Debug\netcoreapp3.1\ArrayLeftRotations.pdb
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.AssemblyInfo.cs
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.dll
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.pdb
+C:\Users\91984\source\repos\ArrayLeftRotations\obj\Debug\netcoreapp3.1\ArrayLeftRotations.genruntimeconfig.cache

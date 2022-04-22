@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.AssemblyInfo.cs
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Kadane_sAlgo\bin\Debug\netcoreapp3.1\Kadane_sAlgo.exe
+C:\Users\91984\source\repos\Kadane_sAlgo\bin\Debug\netcoreapp3.1\Kadane_sAlgo.deps.json
+C:\Users\91984\source\repos\Kadane_sAlgo\bin\Debug\netcoreapp3.1\Kadane_sAlgo.runtimeconfig.json
+C:\Users\91984\source\repos\Kadane_sAlgo\bin\Debug\netcoreapp3.1\Kadane_sAlgo.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Kadane_sAlgo\bin\Debug\netcoreapp3.1\Kadane_sAlgo.dll
+C:\Users\91984\source\repos\Kadane_sAlgo\bin\Debug\netcoreapp3.1\Kadane_sAlgo.pdb
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.dll
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.pdb
+C:\Users\91984\source\repos\Kadane_sAlgo\obj\Debug\netcoreapp3.1\Kadane_sAlgo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MatrixSearch\bin\Debug\netcoreapp3.1\MatrixSearch.exe
+C:\Users\91984\source\repos\MatrixSearch\bin\Debug\netcoreapp3.1\MatrixSearch.deps.json
+C:\Users\91984\source\repos\MatrixSearch\bin\Debug\netcoreapp3.1\MatrixSearch.runtimeconfig.json
+C:\Users\91984\source\repos\MatrixSearch\bin\Debug\netcoreapp3.1\MatrixSearch.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MatrixSearch\bin\Debug\netcoreapp3.1\MatrixSearch.dll
+C:\Users\91984\source\repos\MatrixSearch\bin\Debug\netcoreapp3.1\MatrixSearch.pdb
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.AssemblyInfo.cs
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.dll
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.pdb
+C:\Users\91984\source\repos\MatrixSearch\obj\Debug\netcoreapp3.1\MatrixSearch.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\91984\source\repos\MaxProdSubarray\bin\Debug\netcoreapp3.1\MaxProdSubarray.exe
+C:\Users\91984\source\repos\MaxProdSubarray\bin\Debug\netcoreapp3.1\MaxProdSubarray.deps.json
+C:\Users\91984\source\repos\MaxProdSubarray\bin\Debug\netcoreapp3.1\MaxProdSubarray.runtimeconfig.json
+C:\Users\91984\source\repos\MaxProdSubarray\bin\Debug\netcoreapp3.1\MaxProdSubarray.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxProdSubarray\bin\Debug\netcoreapp3.1\MaxProdSubarray.dll
+C:\Users\91984\source\repos\MaxProdSubarray\bin\Debug\netcoreapp3.1\MaxProdSubarray.pdb
+C:\Users\91984\source\repos\MaxProdSubarray\obj\Debug\netcoreapp3.1\MaxProdSubarray.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxProdSubarray\obj\Debug\netcoreapp3.1\MaxProdSubarray.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxProdSubarray\obj\Debug\netcoreapp3.1\MaxProdSubarray.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxProdSubarray\obj\Debug\netcoreapp3.1\MaxProdSubarray.dll
+C:\Users\91984\source\repos\MaxProdSubarray\obj\Debug\netcoreapp3.1\MaxProdSubarray.pdb
+C:\Users\91984\source\repos\MaxProdSubarray\obj\Debug\netcoreapp3.1\MaxProdSubarray.genruntimeconfig.cache

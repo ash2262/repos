@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfSubMatrices", "SumOfSubMatrices.csproj", "{2E314E52-8F1F-4B6F-950D-660501B3BB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E314E52-8F1F-4B6F-950D-660501B3BB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E314E52-8F1F-4B6F-950D-660501B3BB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E314E52-8F1F-4B6F-950D-660501B3BB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E314E52-8F1F-4B6F-950D-660501B3BB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F12323E-DB69-4D9E-95ED-723453802CD8}
+	EndGlobalSection
+EndGlobal

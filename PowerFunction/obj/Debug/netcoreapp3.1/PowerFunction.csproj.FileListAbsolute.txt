@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.AssemblyInfo.cs
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PowerFunction\bin\Debug\netcoreapp3.1\PowerFunction.exe
+C:\Users\91984\source\repos\PowerFunction\bin\Debug\netcoreapp3.1\PowerFunction.deps.json
+C:\Users\91984\source\repos\PowerFunction\bin\Debug\netcoreapp3.1\PowerFunction.runtimeconfig.json
+C:\Users\91984\source\repos\PowerFunction\bin\Debug\netcoreapp3.1\PowerFunction.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PowerFunction\bin\Debug\netcoreapp3.1\PowerFunction.dll
+C:\Users\91984\source\repos\PowerFunction\bin\Debug\netcoreapp3.1\PowerFunction.pdb
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.dll
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.pdb
+C:\Users\91984\source\repos\PowerFunction\obj\Debug\netcoreapp3.1\PowerFunction.genruntimeconfig.cache

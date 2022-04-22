@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxUnsortedSubArray\bin\Debug\netcoreapp3.1\MaxUnsortedSubArray.exe
+C:\Users\91984\source\repos\MaxUnsortedSubArray\bin\Debug\netcoreapp3.1\MaxUnsortedSubArray.deps.json
+C:\Users\91984\source\repos\MaxUnsortedSubArray\bin\Debug\netcoreapp3.1\MaxUnsortedSubArray.runtimeconfig.json
+C:\Users\91984\source\repos\MaxUnsortedSubArray\bin\Debug\netcoreapp3.1\MaxUnsortedSubArray.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxUnsortedSubArray\bin\Debug\netcoreapp3.1\MaxUnsortedSubArray.dll
+C:\Users\91984\source\repos\MaxUnsortedSubArray\bin\Debug\netcoreapp3.1\MaxUnsortedSubArray.pdb
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.dll
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.pdb
+C:\Users\91984\source\repos\MaxUnsortedSubArray\obj\Debug\netcoreapp3.1\MaxUnsortedSubArray.genruntimeconfig.cache

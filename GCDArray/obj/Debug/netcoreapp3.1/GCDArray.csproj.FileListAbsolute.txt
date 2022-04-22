@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\GCDArray\bin\Debug\netcoreapp3.1\GCDArray.exe
+C:\Users\91984\source\repos\GCDArray\bin\Debug\netcoreapp3.1\GCDArray.deps.json
+C:\Users\91984\source\repos\GCDArray\bin\Debug\netcoreapp3.1\GCDArray.runtimeconfig.json
+C:\Users\91984\source\repos\GCDArray\bin\Debug\netcoreapp3.1\GCDArray.runtimeconfig.dev.json
+C:\Users\91984\source\repos\GCDArray\bin\Debug\netcoreapp3.1\GCDArray.dll
+C:\Users\91984\source\repos\GCDArray\bin\Debug\netcoreapp3.1\GCDArray.pdb
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.AssemblyInfo.cs
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.dll
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.pdb
+C:\Users\91984\source\repos\GCDArray\obj\Debug\netcoreapp3.1\GCDArray.genruntimeconfig.cache

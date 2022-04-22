@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PonnyDonny\bin\Debug\netcoreapp3.1\PonnyDonny.exe
+C:\Users\91984\source\repos\PonnyDonny\bin\Debug\netcoreapp3.1\PonnyDonny.deps.json
+C:\Users\91984\source\repos\PonnyDonny\bin\Debug\netcoreapp3.1\PonnyDonny.runtimeconfig.json
+C:\Users\91984\source\repos\PonnyDonny\bin\Debug\netcoreapp3.1\PonnyDonny.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PonnyDonny\bin\Debug\netcoreapp3.1\PonnyDonny.dll
+C:\Users\91984\source\repos\PonnyDonny\bin\Debug\netcoreapp3.1\PonnyDonny.pdb
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.AssemblyInfo.cs
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.dll
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.pdb
+C:\Users\91984\source\repos\PonnyDonny\obj\Debug\netcoreapp3.1\PonnyDonny.genruntimeconfig.cache

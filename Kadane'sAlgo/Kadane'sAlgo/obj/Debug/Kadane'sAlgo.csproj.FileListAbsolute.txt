@@ -1,0 +1,7 @@
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\bin\Debug\Kadane'sAlgo.exe.config
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\bin\Debug\Kadane'sAlgo.exe
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\bin\Debug\Kadane'sAlgo.pdb
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\obj\Debug\Kadane'sAlgo.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\obj\Debug\Kadane'sAlgo.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\obj\Debug\Kadane'sAlgo.exe
+C:\Users\91984\source\repos\Kadane'sAlgo\Kadane'sAlgo\obj\Debug\Kadane'sAlgo.pdb

@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.AssemblyInfo.cs
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SmallestSub\bin\Debug\netcoreapp3.1\SmallestSub.exe
+C:\Users\91984\source\repos\SmallestSub\bin\Debug\netcoreapp3.1\SmallestSub.deps.json
+C:\Users\91984\source\repos\SmallestSub\bin\Debug\netcoreapp3.1\SmallestSub.runtimeconfig.json
+C:\Users\91984\source\repos\SmallestSub\bin\Debug\netcoreapp3.1\SmallestSub.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SmallestSub\bin\Debug\netcoreapp3.1\SmallestSub.dll
+C:\Users\91984\source\repos\SmallestSub\bin\Debug\netcoreapp3.1\SmallestSub.pdb
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.dll
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.pdb
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.genruntimeconfig.cache
+C:\Users\91984\source\repos\SmallestSub\obj\Debug\netcoreapp3.1\SmallestSub.csprojAssemblyReference.cache

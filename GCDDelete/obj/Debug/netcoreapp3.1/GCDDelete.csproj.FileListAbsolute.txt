@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\GCDDelete\bin\Debug\netcoreapp3.1\GCDDelete.exe
+C:\Users\91984\source\repos\GCDDelete\bin\Debug\netcoreapp3.1\GCDDelete.deps.json
+C:\Users\91984\source\repos\GCDDelete\bin\Debug\netcoreapp3.1\GCDDelete.runtimeconfig.json
+C:\Users\91984\source\repos\GCDDelete\bin\Debug\netcoreapp3.1\GCDDelete.runtimeconfig.dev.json
+C:\Users\91984\source\repos\GCDDelete\bin\Debug\netcoreapp3.1\GCDDelete.dll
+C:\Users\91984\source\repos\GCDDelete\bin\Debug\netcoreapp3.1\GCDDelete.pdb
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.AssemblyInfo.cs
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.dll
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.pdb
+C:\Users\91984\source\repos\GCDDelete\obj\Debug\netcoreapp3.1\GCDDelete.genruntimeconfig.cache

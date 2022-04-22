@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.csprojAssemblyReference.cache
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.AssemblyInfo.cs
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MoreThanNK\bin\Debug\netcoreapp3.1\MoreThanNK.exe
+C:\Users\91984\source\repos\MoreThanNK\bin\Debug\netcoreapp3.1\MoreThanNK.deps.json
+C:\Users\91984\source\repos\MoreThanNK\bin\Debug\netcoreapp3.1\MoreThanNK.runtimeconfig.json
+C:\Users\91984\source\repos\MoreThanNK\bin\Debug\netcoreapp3.1\MoreThanNK.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MoreThanNK\bin\Debug\netcoreapp3.1\MoreThanNK.dll
+C:\Users\91984\source\repos\MoreThanNK\bin\Debug\netcoreapp3.1\MoreThanNK.pdb
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.dll
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.pdb
+C:\Users\91984\source\repos\MoreThanNK\obj\Debug\netcoreapp3.1\MoreThanNK.genruntimeconfig.cache

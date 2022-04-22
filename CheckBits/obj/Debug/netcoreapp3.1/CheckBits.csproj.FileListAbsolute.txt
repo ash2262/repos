@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\CheckBits\bin\Debug\netcoreapp3.1\CheckBits.exe
+C:\Users\91984\source\repos\CheckBits\bin\Debug\netcoreapp3.1\CheckBits.deps.json
+C:\Users\91984\source\repos\CheckBits\bin\Debug\netcoreapp3.1\CheckBits.runtimeconfig.json
+C:\Users\91984\source\repos\CheckBits\bin\Debug\netcoreapp3.1\CheckBits.runtimeconfig.dev.json
+C:\Users\91984\source\repos\CheckBits\bin\Debug\netcoreapp3.1\CheckBits.dll
+C:\Users\91984\source\repos\CheckBits\bin\Debug\netcoreapp3.1\CheckBits.pdb
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.AssemblyInfo.cs
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.dll
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.pdb
+C:\Users\91984\source\repos\CheckBits\obj\Debug\netcoreapp3.1\CheckBits.genruntimeconfig.cache

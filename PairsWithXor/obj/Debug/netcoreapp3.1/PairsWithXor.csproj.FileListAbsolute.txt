@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PairsWithXor\bin\Debug\netcoreapp3.1\PairsWithXor.exe
+C:\Users\91984\source\repos\PairsWithXor\bin\Debug\netcoreapp3.1\PairsWithXor.deps.json
+C:\Users\91984\source\repos\PairsWithXor\bin\Debug\netcoreapp3.1\PairsWithXor.runtimeconfig.json
+C:\Users\91984\source\repos\PairsWithXor\bin\Debug\netcoreapp3.1\PairsWithXor.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PairsWithXor\bin\Debug\netcoreapp3.1\PairsWithXor.dll
+C:\Users\91984\source\repos\PairsWithXor\bin\Debug\netcoreapp3.1\PairsWithXor.pdb
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.AssemblyInfo.cs
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.dll
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.pdb
+C:\Users\91984\source\repos\PairsWithXor\obj\Debug\netcoreapp3.1\PairsWithXor.genruntimeconfig.cache

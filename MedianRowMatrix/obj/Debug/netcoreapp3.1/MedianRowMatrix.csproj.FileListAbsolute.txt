@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MedianRowMatrix\bin\Debug\netcoreapp3.1\MedianRowMatrix.exe
+C:\Users\91984\source\repos\MedianRowMatrix\bin\Debug\netcoreapp3.1\MedianRowMatrix.deps.json
+C:\Users\91984\source\repos\MedianRowMatrix\bin\Debug\netcoreapp3.1\MedianRowMatrix.runtimeconfig.json
+C:\Users\91984\source\repos\MedianRowMatrix\bin\Debug\netcoreapp3.1\MedianRowMatrix.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MedianRowMatrix\bin\Debug\netcoreapp3.1\MedianRowMatrix.dll
+C:\Users\91984\source\repos\MedianRowMatrix\bin\Debug\netcoreapp3.1\MedianRowMatrix.pdb
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.AssemblyInfo.cs
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.dll
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.pdb
+C:\Users\91984\source\repos\MedianRowMatrix\obj\Debug\netcoreapp3.1\MedianRowMatrix.genruntimeconfig.cache

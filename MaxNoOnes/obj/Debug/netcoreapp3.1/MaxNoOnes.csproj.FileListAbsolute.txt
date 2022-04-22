@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaxNoOnes\bin\Debug\netcoreapp3.1\MaxNoOnes.exe
+C:\Users\91984\source\repos\MaxNoOnes\bin\Debug\netcoreapp3.1\MaxNoOnes.deps.json
+C:\Users\91984\source\repos\MaxNoOnes\bin\Debug\netcoreapp3.1\MaxNoOnes.runtimeconfig.json
+C:\Users\91984\source\repos\MaxNoOnes\bin\Debug\netcoreapp3.1\MaxNoOnes.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxNoOnes\bin\Debug\netcoreapp3.1\MaxNoOnes.dll
+C:\Users\91984\source\repos\MaxNoOnes\bin\Debug\netcoreapp3.1\MaxNoOnes.pdb
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.dll
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.pdb
+C:\Users\91984\source\repos\MaxNoOnes\obj\Debug\netcoreapp3.1\MaxNoOnes.genruntimeconfig.cache

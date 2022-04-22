@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RearrangeArray\bin\Debug\netcoreapp3.1\RearrangeArray.exe
+C:\Users\91984\source\repos\RearrangeArray\bin\Debug\netcoreapp3.1\RearrangeArray.deps.json
+C:\Users\91984\source\repos\RearrangeArray\bin\Debug\netcoreapp3.1\RearrangeArray.runtimeconfig.json
+C:\Users\91984\source\repos\RearrangeArray\bin\Debug\netcoreapp3.1\RearrangeArray.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RearrangeArray\bin\Debug\netcoreapp3.1\RearrangeArray.dll
+C:\Users\91984\source\repos\RearrangeArray\bin\Debug\netcoreapp3.1\RearrangeArray.pdb
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.AssemblyInfo.cs
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.dll
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.pdb
+C:\Users\91984\source\repos\RearrangeArray\obj\Debug\netcoreapp3.1\RearrangeArray.genruntimeconfig.cache

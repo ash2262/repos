@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.AssemblyInfo.cs
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\2sum\bin\Debug\netcoreapp3.1\2sum.exe
+C:\Users\91984\source\repos\2sum\bin\Debug\netcoreapp3.1\2sum.deps.json
+C:\Users\91984\source\repos\2sum\bin\Debug\netcoreapp3.1\2sum.runtimeconfig.json
+C:\Users\91984\source\repos\2sum\bin\Debug\netcoreapp3.1\2sum.runtimeconfig.dev.json
+C:\Users\91984\source\repos\2sum\bin\Debug\netcoreapp3.1\2sum.dll
+C:\Users\91984\source\repos\2sum\bin\Debug\netcoreapp3.1\2sum.pdb
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.dll
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.pdb
+C:\Users\91984\source\repos\2sum\obj\Debug\netcoreapp3.1\2sum.genruntimeconfig.cache

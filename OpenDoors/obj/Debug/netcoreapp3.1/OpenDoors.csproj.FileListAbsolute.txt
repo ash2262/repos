@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\OpenDoors\bin\Debug\netcoreapp3.1\OpenDoors.exe
+C:\Users\91984\source\repos\OpenDoors\bin\Debug\netcoreapp3.1\OpenDoors.deps.json
+C:\Users\91984\source\repos\OpenDoors\bin\Debug\netcoreapp3.1\OpenDoors.runtimeconfig.json
+C:\Users\91984\source\repos\OpenDoors\bin\Debug\netcoreapp3.1\OpenDoors.runtimeconfig.dev.json
+C:\Users\91984\source\repos\OpenDoors\bin\Debug\netcoreapp3.1\OpenDoors.dll
+C:\Users\91984\source\repos\OpenDoors\bin\Debug\netcoreapp3.1\OpenDoors.pdb
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.AssemblyInfo.cs
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.dll
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.pdb
+C:\Users\91984\source\repos\OpenDoors\obj\Debug\netcoreapp3.1\OpenDoors.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.AssemblyInfo.cs
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PairSumDivM\bin\Debug\netcoreapp3.1\PairSumDivM.exe
+C:\Users\91984\source\repos\PairSumDivM\bin\Debug\netcoreapp3.1\PairSumDivM.deps.json
+C:\Users\91984\source\repos\PairSumDivM\bin\Debug\netcoreapp3.1\PairSumDivM.runtimeconfig.json
+C:\Users\91984\source\repos\PairSumDivM\bin\Debug\netcoreapp3.1\PairSumDivM.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PairSumDivM\bin\Debug\netcoreapp3.1\PairSumDivM.dll
+C:\Users\91984\source\repos\PairSumDivM\bin\Debug\netcoreapp3.1\PairSumDivM.pdb
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.dll
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.pdb
+C:\Users\91984\source\repos\PairSumDivM\obj\Debug\netcoreapp3.1\PairSumDivM.genruntimeconfig.cache

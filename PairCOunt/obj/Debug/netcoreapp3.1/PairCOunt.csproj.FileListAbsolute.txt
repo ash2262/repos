@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\PairCOunt\bin\Debug\netcoreapp3.1\PairCOunt.exe
+C:\Users\91984\source\repos\PairCOunt\bin\Debug\netcoreapp3.1\PairCOunt.deps.json
+C:\Users\91984\source\repos\PairCOunt\bin\Debug\netcoreapp3.1\PairCOunt.runtimeconfig.json
+C:\Users\91984\source\repos\PairCOunt\bin\Debug\netcoreapp3.1\PairCOunt.runtimeconfig.dev.json
+C:\Users\91984\source\repos\PairCOunt\bin\Debug\netcoreapp3.1\PairCOunt.dll
+C:\Users\91984\source\repos\PairCOunt\bin\Debug\netcoreapp3.1\PairCOunt.pdb
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.AssemblyInfo.cs
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.dll
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.pdb
+C:\Users\91984\source\repos\PairCOunt\obj\Debug\netcoreapp3.1\PairCOunt.genruntimeconfig.cache

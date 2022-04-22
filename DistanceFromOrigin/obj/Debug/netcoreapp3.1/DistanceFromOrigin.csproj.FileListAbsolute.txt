@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\DistanceFromOrigin\bin\Debug\netcoreapp3.1\DistanceFromOrigin.exe
+C:\Users\91984\source\repos\DistanceFromOrigin\bin\Debug\netcoreapp3.1\DistanceFromOrigin.deps.json
+C:\Users\91984\source\repos\DistanceFromOrigin\bin\Debug\netcoreapp3.1\DistanceFromOrigin.runtimeconfig.json
+C:\Users\91984\source\repos\DistanceFromOrigin\bin\Debug\netcoreapp3.1\DistanceFromOrigin.runtimeconfig.dev.json
+C:\Users\91984\source\repos\DistanceFromOrigin\bin\Debug\netcoreapp3.1\DistanceFromOrigin.dll
+C:\Users\91984\source\repos\DistanceFromOrigin\bin\Debug\netcoreapp3.1\DistanceFromOrigin.pdb
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.AssemblyInfo.cs
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.dll
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.pdb
+C:\Users\91984\source\repos\DistanceFromOrigin\obj\Debug\netcoreapp3.1\DistanceFromOrigin.genruntimeconfig.cache
