@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.AssemblyInfo.cs
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SqrtInt\bin\Debug\netcoreapp3.1\SqrtInt.exe
+C:\Users\91984\source\repos\SqrtInt\bin\Debug\netcoreapp3.1\SqrtInt.deps.json
+C:\Users\91984\source\repos\SqrtInt\bin\Debug\netcoreapp3.1\SqrtInt.runtimeconfig.json
+C:\Users\91984\source\repos\SqrtInt\bin\Debug\netcoreapp3.1\SqrtInt.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SqrtInt\bin\Debug\netcoreapp3.1\SqrtInt.dll
+C:\Users\91984\source\repos\SqrtInt\bin\Debug\netcoreapp3.1\SqrtInt.pdb
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.dll
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.pdb
+C:\Users\91984\source\repos\SqrtInt\obj\Debug\netcoreapp3.1\SqrtInt.genruntimeconfig.cache

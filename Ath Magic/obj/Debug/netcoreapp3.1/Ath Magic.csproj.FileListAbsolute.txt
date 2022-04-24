@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.AssemblyInfo.cs
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\Ath Magic\bin\Debug\netcoreapp3.1\Ath Magic.exe
+C:\Users\91984\source\repos\Ath Magic\bin\Debug\netcoreapp3.1\Ath Magic.deps.json
+C:\Users\91984\source\repos\Ath Magic\bin\Debug\netcoreapp3.1\Ath Magic.runtimeconfig.json
+C:\Users\91984\source\repos\Ath Magic\bin\Debug\netcoreapp3.1\Ath Magic.runtimeconfig.dev.json
+C:\Users\91984\source\repos\Ath Magic\bin\Debug\netcoreapp3.1\Ath Magic.dll
+C:\Users\91984\source\repos\Ath Magic\bin\Debug\netcoreapp3.1\Ath Magic.pdb
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.dll
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.pdb
+C:\Users\91984\source\repos\Ath Magic\obj\Debug\netcoreapp3.1\Ath Magic.genruntimeconfig.cache
