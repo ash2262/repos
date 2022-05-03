@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\SpecialInteger\bin\Debug\netcoreapp3.1\SpecialInteger.exe
+C:\Users\91984\source\repos\SpecialInteger\bin\Debug\netcoreapp3.1\SpecialInteger.deps.json
+C:\Users\91984\source\repos\SpecialInteger\bin\Debug\netcoreapp3.1\SpecialInteger.runtimeconfig.json
+C:\Users\91984\source\repos\SpecialInteger\bin\Debug\netcoreapp3.1\SpecialInteger.runtimeconfig.dev.json
+C:\Users\91984\source\repos\SpecialInteger\bin\Debug\netcoreapp3.1\SpecialInteger.dll
+C:\Users\91984\source\repos\SpecialInteger\bin\Debug\netcoreapp3.1\SpecialInteger.pdb
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.AssemblyInfo.cs
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.dll
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.pdb
+C:\Users\91984\source\repos\SpecialInteger\obj\Debug\netcoreapp3.1\SpecialInteger.genruntimeconfig.cache
