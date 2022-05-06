@@ -1,0 +1,13 @@
+C:\Users\91984\source\repos\FindSeq\bin\Debug\netcoreapp3.1\FindSeq.exe
+C:\Users\91984\source\repos\FindSeq\bin\Debug\netcoreapp3.1\FindSeq.deps.json
+C:\Users\91984\source\repos\FindSeq\bin\Debug\netcoreapp3.1\FindSeq.runtimeconfig.json
+C:\Users\91984\source\repos\FindSeq\bin\Debug\netcoreapp3.1\FindSeq.runtimeconfig.dev.json
+C:\Users\91984\source\repos\FindSeq\bin\Debug\netcoreapp3.1\FindSeq.dll
+C:\Users\91984\source\repos\FindSeq\bin\Debug\netcoreapp3.1\FindSeq.pdb
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.AssemblyInfo.cs
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.dll
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.pdb
+C:\Users\91984\source\repos\FindSeq\obj\Debug\netcoreapp3.1\FindSeq.genruntimeconfig.cache
