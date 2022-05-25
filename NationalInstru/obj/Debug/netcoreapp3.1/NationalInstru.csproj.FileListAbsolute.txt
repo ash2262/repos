@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\NationalInstru\bin\Debug\netcoreapp3.1\NationalInstru.exe
+C:\Users\91984\source\repos\NationalInstru\bin\Debug\netcoreapp3.1\NationalInstru.deps.json
+C:\Users\91984\source\repos\NationalInstru\bin\Debug\netcoreapp3.1\NationalInstru.runtimeconfig.json
+C:\Users\91984\source\repos\NationalInstru\bin\Debug\netcoreapp3.1\NationalInstru.runtimeconfig.dev.json
+C:\Users\91984\source\repos\NationalInstru\bin\Debug\netcoreapp3.1\NationalInstru.dll
+C:\Users\91984\source\repos\NationalInstru\bin\Debug\netcoreapp3.1\NationalInstru.pdb
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.AssemblyInfo.cs
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.dll
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.pdb
+C:\Users\91984\source\repos\NationalInstru\obj\Debug\netcoreapp3.1\NationalInstru.genruntimeconfig.cache

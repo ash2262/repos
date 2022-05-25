@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\MaxProductTriplet\bin\Debug\netcoreapp3.1\MaxProductTriplet.exe
+C:\Users\91984\source\repos\MaxProductTriplet\bin\Debug\netcoreapp3.1\MaxProductTriplet.deps.json
+C:\Users\91984\source\repos\MaxProductTriplet\bin\Debug\netcoreapp3.1\MaxProductTriplet.runtimeconfig.json
+C:\Users\91984\source\repos\MaxProductTriplet\bin\Debug\netcoreapp3.1\MaxProductTriplet.runtimeconfig.dev.json
+C:\Users\91984\source\repos\MaxProductTriplet\bin\Debug\netcoreapp3.1\MaxProductTriplet.dll
+C:\Users\91984\source\repos\MaxProductTriplet\bin\Debug\netcoreapp3.1\MaxProductTriplet.pdb
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.AssemblyInfo.cs
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.dll
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.pdb
+C:\Users\91984\source\repos\MaxProductTriplet\obj\Debug\netcoreapp3.1\MaxProductTriplet.genruntimeconfig.cache
