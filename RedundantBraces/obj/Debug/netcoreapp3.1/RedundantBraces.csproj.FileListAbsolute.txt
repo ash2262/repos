@@ -1,0 +1,14 @@
+C:\Users\91984\source\repos\RedundantBraces\bin\Debug\netcoreapp3.1\RedundantBraces.exe
+C:\Users\91984\source\repos\RedundantBraces\bin\Debug\netcoreapp3.1\RedundantBraces.deps.json
+C:\Users\91984\source\repos\RedundantBraces\bin\Debug\netcoreapp3.1\RedundantBraces.runtimeconfig.json
+C:\Users\91984\source\repos\RedundantBraces\bin\Debug\netcoreapp3.1\RedundantBraces.runtimeconfig.dev.json
+C:\Users\91984\source\repos\RedundantBraces\bin\Debug\netcoreapp3.1\RedundantBraces.dll
+C:\Users\91984\source\repos\RedundantBraces\bin\Debug\netcoreapp3.1\RedundantBraces.pdb
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.csproj.AssemblyReference.cache
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.AssemblyInfoInputs.cache
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.AssemblyInfo.cs
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.csproj.CoreCompileInputs.cache
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.dll
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.pdb
+C:\Users\91984\source\repos\RedundantBraces\obj\Debug\netcoreapp3.1\RedundantBraces.genruntimeconfig.cache
