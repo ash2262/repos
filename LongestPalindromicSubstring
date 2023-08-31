@@ -1,0 +1,69 @@
+package HelloWorld;
+
+import java.util.*;
+
+public class Hello{
+        public static void main(String[] args) {    
+            System.out.println(findLongestPalindrome("hellosannasmith"));
+        }
+        
+        public static String findLongestPalindrome(String s) {
+            char[] charsArray = s.toCharArray();
+            boolean[][] boolArr = new boolean[charsArray.length][charsArray.length];
+            int longestStart = 0;
+            int maxLength = 1;
+    
+            // By default, the matching array indexes are kept true for tracking similar characters
+            for (int i = 0; i < charsArray.length; i++) {
+                boolArr[i][i] = true;
+            }
+    
+            for (int i = 0; i < charsArray.length - 1; i++) {
+                // This checks if there are matching characters and their length in the given string
+                if (charsArray[i] == charsArray[i + 1]) {
+                    boolArr[i][i + 1] = true;
+                    longestStart = i;
+                    maxLength = 2;
+                }
+            }
+    
+            // Keeps track of the character length that has length of two in a substring
+            for (int length = 2; length <= charsArray.length; length++) {
+                for (int i = 0; i < charsArray.length - length + 1; i++) {
+                    int j = i + length - 1;
+                    if (charsArray[i] == charsArray[j] && boolArr[i + 1][j - 1]) {
+                        boolArr[i][j] = true;
+                        if (maxLength < (j - i)) {
+                            maxLength = j - i;
+                            longestStart = i;
+                        }
+                    }
+                }
+            }
+    
+            // Returns the substring that's found
+            if (maxLength > 1) {
+                return s.substring(longestStart, longestStart + maxLength + 1);
+            } else {
+                return "none";
+            }
+        }
+        
+    }
+
+
+    class Singleton{
+        public static  Singleton _instance;
+        private Singleton(){
+
+        }
+        public static Singleton CreateInstance(Singleton instance){
+            if(_instance==null){
+            _instance=instance;
+        }
+        else
+            _instance=new Singleton();
+            return _instance;
+        }
+
+    }
