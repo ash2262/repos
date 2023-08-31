@@ -52,18 +52,4 @@ public class Hello{
     }
 
 
-    class Singleton{
-        public static  Singleton _instance;
-        private Singleton(){
-
-        }
-        public static Singleton CreateInstance(Singleton instance){
-            if(_instance==null){
-            _instance=instance;
-        }
-        else
-            _instance=new Singleton();
-            return _instance;
-        }
-
-    }
+    
